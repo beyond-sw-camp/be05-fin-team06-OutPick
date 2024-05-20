@@ -45,29 +45,31 @@ https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sh
 <br/>
 
 >## 2. 팀 소개
-<center>
+<p align="center">
 
 |<img src="https://avatars.githubusercontent.com/u/83454423?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134581020?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/113917104?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/137466623?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134200142?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
 |박혜경<br/>[@BakHyegyeong](https://github.com/BakHyegyeong)|여경원<br/>[@kyungwon2won2](https://github.com/kyungwon2won2)|이영원<br/>[@nbbb9](https://github.com/nbbb9)|정설화<br/>[@Noononda](https://github.com/Noononda)|백승호<br/>[@sttoend](https://github.com/sttoend)|
 
-</center>
+</p>
 
 <br/>
 </br>
 
 >## 3. WBS
+</br>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/596cebe7-840f-477f-a5f8-30ed01dcbdcb" width="100%" height="100%"/>
+</p>
 
-![WBS](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/596cebe7-840f-477f-a5f8-30ed01dcbdcb)
-
-    JIRA를 사용한 WBS
-
+    Jira를 사용한 WBS
 <br/>
 <br/>
 
 >## 4. 요구사항 명세서
 >요구사항 명세서 : https://docs.google.com/spreadsheets/d/1gCxWgb2HCPqeUkymqBYCLILEuOzy5x106LlM4JyODRA/edit?usp=sharing
 
+</br>
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d5866800-5d8d-4317-b962-2636ced6e6f5" width="50%" height="50%"/>
 </p>
@@ -75,29 +77,33 @@ https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sh
 <br/>
 <br/>
 
->## 4. 화면설계서
+>## 5. 화면설계서
 >Figma : https://www.figma.com/design/wi8ajLQUWntGToZKFLz77M/Untitled?node-id=0%3A1&t=s3S2rUalCspQz62l-1
 
-<center>
+</br>
+<p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/ba883540-7131-448c-861c-a3f6b9ec0d50" width="80%" height="80%"/>
-</center>
+</p>
 
     Figma를 통한 화면설계서
 
 <br/>
 <br/>
 
->## 5. ERD
->Figma : 
+>## 6. ERD(사진 수정 필)
 
-<ERD 사진>
+</br>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/4a3c3c34-9ef5-44ca-b381-bc6e205586ae" width="=100%" height="100%"/>
+</p>
+
 
     ERD Cloud를 통한 ERD 제작
 
 <br/>
 <br/>
 
->## 5. API 명세서(수정 필)
+>## 7. API 명세서(수정 필)
 >API 명세서 : https://docs.google.com/spreadsheets/d/1gCxWgb2HCPqeUkymqBYCLILEuOzy5x106LlM4JyODRA/edit?usp=sharing
 
 <API 명세서 사진 첨부>
@@ -105,7 +111,7 @@ https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sh
 <br/>
 <br/>
 
->## 6. 기술 스택(수정 필)
+>## 8. 기술 스택(수정 필)
 * **Database :**
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"><br/>
 * **Backend   :** <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br/>
@@ -115,9 +121,11 @@ https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sh
 <br/>
 <br/>
 
->## 7. 시스템 아키텍쳐(수정 필 _ 프론트, 백엔드 나눠서_ 상의 필요)
+>## 9. 시스템 아키텍쳐(수정 필 _ 프론트, 백엔드 나눠서_ 상의 필요)
 
-<br/>![시스템 아키텍쳐](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/707b43ca-984a-41c9-bdb0-5d57b0cbd44d)
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/707b43ca-984a-41c9-bdb0-5d57b0cbd44d" width="100%" height="100%"/>
+</p>
 
     백엔드 아키텍쳐
 
@@ -125,7 +133,7 @@ https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sh
 
 <br/>
 
->## 8. 빌드 과정 및 배포 문서(수정 필)
+>## 10. 빌드 과정 및 배포 문서(수정 필)
 ### 1. jar파일 생성 <br/>
 `명령어를 통해 jar파일을 생성합니다.`
 ```
@@ -383,7 +391,7 @@ pipeline {
 
 <br/>
 
->## 9. 기능 테스트
+>## 11. 기능 테스트
 ### 상품 리스트, 상세 정보
 <img src="https://github.com/beyond-sw-camp/be05-4th-6team-OutPick/assets/137466623/04dcd06d-e91d-4fe5-a7dd-89f5353397a3">
 <br/>
