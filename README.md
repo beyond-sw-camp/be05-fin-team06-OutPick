@@ -67,7 +67,7 @@ https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sh
 <br/>
 
 >## 4. 요구사항 명세서
->요구사항 명세서 : https://docs.google.com/spreadsheets/d/1gCxWgb2HCPqeUkymqBYCLILEuOzy5x106LlM4JyODRA/edit?usp=sharing
+>요구사항 명세서 : https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true
 
 </br>
 <p align="center">
@@ -104,7 +104,7 @@ https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sh
 <br/>
 
 >## 7. API 명세서(수정 필)
->API 명세서 : https://docs.google.com/spreadsheets/d/1gCxWgb2HCPqeUkymqBYCLILEuOzy5x106LlM4JyODRA/edit?usp=sharing
+>API 명세서 : https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=0&single=true
 
 <API 명세서 사진 첨부>
 
