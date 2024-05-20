@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&random=false&width=435&lines=Pick+Your+Best+Outfit%2C+OutPICK)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&random=false&width=800&lines=Pick+Your+Best+Outfit%2C+OutPick)](https://git.io/typing-svg)
 
 ![OutPick_logo](https://github.com/beyond-sw-camp/be05-4th-6team-OutPick/assets/113917104/b4fe368b-e161-4ff1-a600-be6e5171eb8b)
 
-## 목차
+</br>
+
+## 목차(수정 필_마지막)
 [1. 프로젝트 개요](#1-프로젝트-개요)</br></br>
 [2. API 명세서](#2-API-명세서)</br></br>
 [3. 팀 소개](#3-팀-소개)</br></br>
@@ -11,24 +13,35 @@
 [6. 빌드 과정 및 배포 문서](#6-빌드-과정-및-배포-문서)</br></br>
 [7. 기능 테스트](#7-기능-테스트)</br></br>
 
-   <br/>
+<br/>
+<br/>
    
 >## 1. 프로젝트 개요
 >프로젝트 기획서 : 
 https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sharing&ouid=103966248639438099916&rtpof=true&sd=true
+
+<details>
+<summary>프로젝트 개요</summary>
+<div markdown="1">
 <div>
+</br>
    2024년 현재, 기업 운영의 범위는 더욱 광범위해지고 규모가 커져가고있다. 이러한 상황에서 넓은 범위의 분야를 포괄하고, 가장 중요시되는 것이 '영업관리'이다. 기업 운영에서 중요하게 여겨지는 영업관리이지만, 기존 영업 관리 시스템은 사용자 친화적이지 않다. 따라서 기존보다 효율적이며 유연성 있는 영업관리 시스템이 필요하다. 이 부분이 영업관리 주제를 선택한 이유이자, 앞으로 프로젝트를 진행하면서 중점적으로 개선하여 개발할 부분이다.<br/>
 많은 분야의 기업 영업관리가 있지만, 그 중 선택한 분야는 의류 브랜드이다. 의류 브랜드 영업관리를 선택한 이유에는 몇가지가 있다.
    <br/>
    <br/>
-   
-![스크린샷 2024-05-08 110619](https://github.com/beyond-sw-camp/be05-4th-6team-OutPick/assets/113917104/f6aada09-9e75-4b81-acd7-119bd069fd02)
+<center>
+<img src="https://github.com/beyond-sw-camp/be05-4th-6team-OutPick/assets/113917104/f6aada09-9e75-4b81-acd7-119bd069fd02" width="80%" height="80%"/>
+</center>
 
+    "올해 한국 패션시장규모 5.2% 성장해 49.5조" 나지현 기자 Ktnews
+</br>
 첫번째, 시장의 수요이다. 인간이 살아가면서 가장 중요하고 필요한 요소들 중 하나가 바로 의류이다. 인간이 현존하는 동안에는 의류 산업은 필수적이다. 또한 인류 사회가 발전함에 따라 의류는 단순한 옷, 그 자체가 아닌 자신의 개성을 드러낼 수 있는 패션 수단으로써 시장의 규모가 더욱 커지고있다.<br/><br/>
 두번째, 트렌드의 영향이다. 위에서 말했듯이 의류는 개성을 드러내는 패션 수단으로 발전했다. 이에 따라서 의류 산업은 트렌드의 영향을 많이 받게되는 산업 중 하나인데, 이러한 트렌드에 맞춰서 효율적이고 유연성 있게 영업을 관리할 수 있는 시스템이 필요하다고 판단했다.<br/><br/>
 세번째, 경쟁력이다. 유연하고 효율적인 영업 관리를 한다면 빠르게 대응해야하는 의류 브랜드 산업에서는 큰 경쟁력을 가질 수 있게 될 것이다. 기존보다 더 효율적이고 친화적인 UI, 트렌드에 빠른 대응을 할 수 있도록 돕는 트렌드에 대한 정보 제공 등을 활용한다면 다른 영업관리 시스템에 비해서 더욱 경쟁력을 가진 영업관리 시스템이 될 것이라고 생각했다.<br/><br/>
 위와 같은 내용을 바탕으로 '의류 브랜드 산업 영업 관리 시스템'을 최종 주제로 선정하였다. 해당 프로젝트는 영업관리의 중 재고, 유통 관리 일부분을 구현하였고, 배포하는 과정의 내용을 중점적으로 다루었다.
 </div>
+</details>
+<br/>
 <br/>
 
 >## 2. 팀 소개
@@ -41,20 +54,58 @@ https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sh
 </center>
 
 <br/>
+</br>
 
->## 2. WBS
+>## 3. WBS
 
-<링크 & 사진 첨부>
+![WBS](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/596cebe7-840f-477f-a5f8-30ed01dcbdcb)
+
+    JIRA를 사용한 WBS
+
 <br/>
 <br/>
 
->## 2. API 명세서(수정 필)
+>## 4. 요구사항 명세서
+>요구사항 명세서 : https://docs.google.com/spreadsheets/d/1gCxWgb2HCPqeUkymqBYCLILEuOzy5x106LlM4JyODRA/edit?usp=sharing
 
-<링크 & 사진 첨부>
+<center>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d5866800-5d8d-4317-b962-2636ced6e6f5" width="50%" height="50%"/>
+</center>
+
 <br/>
 <br/>
 
->## 4. 기술 스택(수정 필)
+>## 4. 화면설계서
+>Figma : https://www.figma.com/design/wi8ajLQUWntGToZKFLz77M/Untitled?node-id=0%3A1&t=s3S2rUalCspQz62l-1
+
+<center>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/ba883540-7131-448c-861c-a3f6b9ec0d50" width="80%" height="80%"/>
+</center>
+
+    Figma를 통한 화면설계서
+
+<br/>
+<br/>
+
+>## 5. ERD
+>Figma : 
+
+<ERD 사진>
+
+    ERD Cloud를 통한 ERD 제작
+
+<br/>
+<br/>
+
+>## 5. API 명세서(수정 필)
+>API 명세서 : https://docs.google.com/spreadsheets/d/1gCxWgb2HCPqeUkymqBYCLILEuOzy5x106LlM4JyODRA/edit?usp=sharing
+
+<API 명세서 사진 첨부>
+
+<br/>
+<br/>
+
+>## 6. 기술 스택(수정 필)
 * **Database :**
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"><br/>
 * **Backend   :** <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br/>
@@ -64,14 +115,17 @@ https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sh
 <br/>
 <br/>
 
->## 5. 시스템 아키텍쳐
+>## 7. 시스템 아키텍쳐(수정 필 _ 프론트, 백엔드 나눠서_ 상의 필요)
 
-<사진>
+<br/>![시스템 아키텍쳐](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/707b43ca-984a-41c9-bdb0-5d57b0cbd44d)
+
+    백엔드 아키텍쳐
+
+    프론트엔드 아키텍쳐
 
 <br/>
-<br/>
 
->## 6. 빌드 과정 및 배포 문서
+>## 8. 빌드 과정 및 배포 문서(수정 필)
 ### 1. jar파일 생성 <br/>
 `명령어를 통해 jar파일을 생성합니다.`
 ```
@@ -329,7 +383,7 @@ pipeline {
 
 <br/>
 
->## 7. 기능 테스트
+>## 9. 기능 테스트
 ### 상품 리스트, 상세 정보
 <img src="https://github.com/beyond-sw-camp/be05-4th-6team-OutPick/assets/137466623/04dcd06d-e91d-4fe5-a7dd-89f5353397a3">
 <br/>
