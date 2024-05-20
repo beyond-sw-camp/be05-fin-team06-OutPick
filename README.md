@@ -68,9 +68,9 @@ https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sh
 >## 4. 요구사항 명세서
 >요구사항 명세서 : https://docs.google.com/spreadsheets/d/1gCxWgb2HCPqeUkymqBYCLILEuOzy5x106LlM4JyODRA/edit?usp=sharing
 
-<center>
+<p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d5866800-5d8d-4317-b962-2636ced6e6f5" width="50%" height="50%"/>
-</center>
+</p>
 
 <br/>
 <br/>
