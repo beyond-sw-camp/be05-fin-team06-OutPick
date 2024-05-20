@@ -82,7 +82,7 @@ https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sh
 
 </br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/ba883540-7131-448c-861c-a3f6b9ec0d50" width="80%" height="80%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/ba883540-7131-448c-861c-a3f6b9ec0d50" width="100%" height="100%"/>
 </p>
 
     Figma를 통한 화면설계서
