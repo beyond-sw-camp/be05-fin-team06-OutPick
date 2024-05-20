@@ -53,13 +53,15 @@
 <br/>
 
 >## 2. 팀 소개
-<p align="center">
+
+<div align="center">
 
 |<img src="https://avatars.githubusercontent.com/u/83454423?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134581020?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/113917104?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/137466623?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134200142?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
 |박혜경<br/>[@BakHyegyeong](https://github.com/BakHyegyeong)|여경원<br/>[@kyungwon2won2](https://github.com/kyungwon2won2)|이영원<br/>[@nbbb9](https://github.com/nbbb9)|정설화<br/>[@Noononda](https://github.com/Noononda)|백승호<br/>[@sttoend](https://github.com/sttoend)|
 
-</p>
+</div>
+
 
 <br/>
 </br>
