@@ -4,7 +4,9 @@
   </a>
 </div>
 
-![OutPick_logo](https://github.com/beyond-sw-camp/be05-4th-6team-OutPick/assets/113917104/b4fe368b-e161-4ff1-a600-be6e5171eb8b)
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-4th-6team-OutPick/assets/113917104/b4fe368b-e161-4ff1-a600-be6e5171eb8b" width="100%" height="100%"/>
+</p>
 
 </br>
 
@@ -33,9 +35,10 @@
 많은 분야의 기업 영업관리가 있지만, 그 중 선택한 분야는 의류 브랜드이다. 의류 브랜드 영업관리를 선택한 이유에는 몇가지가 있다.
    <br/>
    <br/>
-<center>
+
+<p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-4th-6team-OutPick/assets/113917104/f6aada09-9e75-4b81-acd7-119bd069fd02" width="80%" height="80%"/>
-</center>
+</p>
 
     "올해 한국 패션시장규모 5.2% 성장해 49.5조" 나지현 기자 Ktnews
 </br>
