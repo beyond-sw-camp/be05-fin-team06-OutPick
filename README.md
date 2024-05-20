@@ -18,7 +18,7 @@
    
 >## 1. 프로젝트 개요
 >프로젝트 기획서 : 
-https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sharing&ouid=103966248639438099916&rtpof=true&sd=true
+[https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sharing&ouid=103966248639438099916&rtpof=true&sd=true](https://docs.google.com/document/d/e/2PACX-1vRXz16qsa14AtSS3hxbLGdLOLyV3ECUonP_XV0TXHLME7rUtETutvjESXsBJSGwxA/pub)
 
 <details>
 <summary>프로젝트 개요</summary>
