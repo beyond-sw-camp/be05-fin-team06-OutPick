@@ -96,7 +96,7 @@
 
 </br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/ba883540-7131-448c-861c-a3f6b9ec0d50" width="100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d5aae3da-dba4-45cb-8ed9-27df064dc50c" width="100%" height="100%"/>
 </p>
 
     Figma를 통한 화면설계서
@@ -108,9 +108,8 @@
 
 </br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/4a3c3c34-9ef5-44ca-b381-bc6e205586ae" width="=100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/096bc59e-c53a-4e44-abe4-2c874e9e52f7" width="=100%" height="100%"/>
 </p>
-
 
     ERD Cloud를 통한 ERD 제작
 
@@ -120,7 +119,9 @@
 >## 7. API 명세서(수정 필)
 >API 명세서 : https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true
 
-<API 명세서 사진 첨부>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/0476c43c-6b51-40af-8923-e2340634d587" width="=100%" height="100%"/>
+</p>
 
 <br/>
 <br/>
