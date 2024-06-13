@@ -12,6 +12,7 @@
 </br>
 
 ## 목차(수정 필_마지막)
+[0. Dev Git Repository](#0-Dev-Git-Repository)</br></br>
 [1. 프로젝트 개요](#1-프로젝트-개요)</br></br>
 [2. 팀 소개](#2-팀-소개)</br></br>
 [3. WBS](#3-WBS)</br></br>
@@ -28,10 +29,10 @@
 <br/>
 <br/>
 
->## 0. Git Repository
-* [Backend](https://github.com/nbbb9/be05-fin-OutPick_Backend)
+>## 0. Dev Git Repository
+* [**Backend**](https://github.com/nbbb9/be05-fin-OutPick_Backend)
 
-* [Frontend](https://github.com/nbbb9/be05-fin-OutPick_Frontend)
+* [**Frontend**](https://github.com/nbbb9/be05-fin-OutPick_Frontend)
 
 <br/>
    
