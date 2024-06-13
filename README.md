@@ -423,7 +423,13 @@ pipeline {
 #### 로그인
 > 사번과 비밀번호 입력을 통해 로그인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/ee262a7c-d3c3-47ef-b9e3-8bcc0687136d" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e8a6cd43-7831-464e-ac77-05631ca63a66" width="100%" height="100%"/>
+</p>
 
 #### 로그인한 사원의 정보 조회
 > 로그인한 사원 본인의 사원 정보를 불러와서 인포윈도우에서 확인할 수 있다.
@@ -433,188 +439,420 @@ pipeline {
 #### 재고요청서 전체 조회(관리자)
 > 관리자는 전체 재고요청서를 리스트로 확인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/02f4a75d-48b6-4bad-947b-89e194bb7f2e" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/603ddbb8-c585-41a7-8bf6-a95270740390" width="100%" height="100%"/>
+</p>
 
 #### 매장별 재고요청서 리스트 조회(관리자)
 > 매장별 재고요청서를 리스트로 확인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/1554ee61-f8b7-4b3f-80f1-31b7b412c094" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="[https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/603ddbb8-c585-41a7-8bf6-a95270740390](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/374e0992-21d1-4b40-9219-0315c41ab9bb)" width="100%" height="100%"/>
+</p>
 
 #### 재고요청서 상세 조회(관리자)
 > 관리자는 리스트에서 선택한 재고요청서의 상세정보를 확인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/817ed630-a4f2-48a6-94f3-8d5bc437db54" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/23335313-767d-4258-9232-b8a76bd03087" width="100%" height="100%"/>
+</p>
 
 #### 재고요청서 승인(관리자)
 >관리자는 전체 재고요청서에 대해서 승인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/60d9910d-45c2-4eb6-96d2-afdb4d491b9e" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/66a4e7de-c90a-4fd1-8d75-c1c01ea588ba" width="100%" height="100%"/>
+</p>
 
 #### 전체 생산요청서 조회(관리자)
 > 관리자는 전체 생산요청서를 리스트로 확인할 수 있다.
- 
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/2b9e308b-20bc-42d7-af88-e37f84021a23" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/5fe19b1e-8666-4274-8c94-82d4f1e3e9f8" width="100%" height="100%"/>
+</p>
 
 #### 생산요청서 상세 조회(관리자)
 > 관리자는 리스트에서 선택한 생산요청서의 상세정보를 확인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/23cd25dc-d562-4f3e-9a5e-6470ba7103fb" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e5fa79df-8ab3-4f43-9dc9-da88293b5336" width="100%" height="100%"/>
+</p>
 
 #### 생산요청서 승인(관리자)
 > 관리자는 전체 생산요청서를 승인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e9c42be4-0d4b-4fef-81bf-77d4a348764e" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/5d70dd76-1ed5-419c-9d3f-a58768e518b0" width="100%" height="100%"/>
+</p>
 
 #### 판매량 조회
 > 회사의 전체 판매량을 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/c6c6ef01-341e-43e4-8c74-4a07d395624e" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/7dbd75bd-eebd-4120-afbe-6f13eec4a429" width="100%" height="100%"/>
+</p>
 
 #### 전체 매장들의 월별 판매량 조회
 > 전체 매장의 월별 판매량을 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/93833326-e3ac-4d81-a739-3998a7047fe8" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/13ade84f-0fa7-40a2-8a53-70742295c83b" width="100%" height="100%"/>
+</p>
 
 #### 매장별 월 상세판매량 분석(분류1)
 > 특정 매장의 특정 월 특정 상품 / 특정 색깔 / 판매량을 조회할 수 있다.(좌측 하단의 그래프에서 특정 매장을 눌렀을 때) -1차
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f31d4fa2-e456-42cf-9a62-bf322e4fddb8" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/573670bf-a105-4d1a-96bc-ea5a0f1c8b4c" width="100%" height="100%"/>
+</p>
 
 #### 매장별 월 상세판매량 분석(분류1, 분류2)
 > 특정 매장의 특정 월 특정 상품 / 특정 색깔 / 판매량을 조회할 수 있다.(좌측 하단의 그래프에서 특정 매장을 눌렀을 때) -2차
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/0d0f50ce-93c8-4d91-8cd0-f7fd2db04fd5" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/3fd35946-8e70-4c62-98b8-be33be06efaf" width="100%" height="100%"/>
+</p>
 
 #### 담당 매장 리스트 조회
 > 로그인한 영업사원이 관리하는 매장을 리스트로 확인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/002626c6-d27b-429e-8175-7164f3c4878f" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/ee927530-778e-40a6-a652-fd9d363f9043" width="100%" height="100%"/>
+</p>
 
 #### 담당 매장 상세 조회
 > 로그인한 영업사원이 관리하는 매장의 상세정보를 확인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/9a9a641f-5a7f-48b5-8050-ea852e3ed10f" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/644ea60e-ec82-4589-98e2-03fece9e5d7a" width="100%" height="100%"/>
+</p>
 
 #### 전체 매장 리스트 조회
 > 전체 매장을 리스트로 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/af00a6a8-bb00-4691-a136-7a69f46e6735" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/c50a0660-401c-4106-80dd-67b1b5742f74" width="100%" height="100%"/>
+</p>
 
 #### 재고요청서 반려 시 피드백 전송(분석 포함)(진행중)
 > 로그인한 영업사원이 담당하고 있는 매장들의 재고 요청서를 반려할 때 피드백을 매장 프로그램으로 보낼 수 있다.(분석포함)
 
-
+<사진>
 
 #### 재고요청서 리스트 조회
 > 로그인한 영업사원이 담당하고 있는 매장들의 재고요청서를 리스트로 확인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b59b4719-c6d9-448f-927b-60de2af9adc7" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/09c261e3-5f09-4a27-9ee6-022ebd4b6ac9" width="100%" height="100%"/>
+</p>
 
 #### 재고요청서 상세 조회
 > 로그인한 영업사원이 담당하고 있는 매장들의 재고요청서 상세정보를 확인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/1d28a5b0-1fd2-4c18-a49d-1ec4ae05a287" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/2b7d2118-a299-4e31-9c7a-b5cec41076a8" width="100%" height="100%"/>
+</p>
 
 #### 재고요청서 승인
 > 로그인한 영업사원이 담당하고 있는 매장들의 재고요청서를 승인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/101325a4-4d7a-428e-9d87-bd23f4b9bff2" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f533055f-25c0-4cc8-9c74-1a143ec5843e" width="100%" height="100%"/>
+</p>
 
 #### 건의문 리스트 조회
 > 로그인한 영업사원이 담당하고 있는 매장들의 전체 리스트를 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/271bfed2-e70f-4317-b11a-b22bc893e90f" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/81785e1f-25ab-44f5-8262-3bb551f1f75d" width="100%" height="100%"/>
+</p>
 
 #### 건의문 상세 조회
 > 로그인한 영업사원이 담당하고 있는 매장들의 건의문을 단일조회(상세조회)할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/804f2963-6626-48a8-9e5a-0a5f6bb60286" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/9f8d2c41-57c4-4620-973a-b3858f133c84" width="100%" height="100%"/>
+</p>
 
-#### 건의문 해결방안 작성
-> 로그인한 영업사원이 담당하고 있는 매장들의 건의문에 대한 해결방안을 작성할 수 있다.
+#### 건의문 해결방안 작성 & 수정
+> 로그인한 영업사원이 담당하고 있는 매장들의 건의문에 대한 해결방안을 작성, 수정할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/0cebe2c2-e0eb-47f6-8b66-3a4b79f02b6c" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/50db2367-dd88-4b81-bf5d-2d70a1b00e37" width="100%" height="100%"/>
+</p>
 
 #### 특정매장 건의문 전체 리스트 조회
 > 로그인한 영업사원이 담당하고 있는 매장들 둘 특정 매장의 건의문 전체리스트를 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/7e6625e3-08d8-4545-8682-2dae1d1e00a9" width="100%" height="100%"/>
+</p>
 
-
-#### 건의문 해결방안 수정
-> 로그인한 영업사원이 담당하고 있는 매장들의 건의문 해결방안을 수정할 수 있다.
-
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/4222d1ce-fc0d-4fb5-a403-4b6349ed7091" width="100%" height="100%"/>
+</p>
 
 #### 건의문 해결완료
 > 로그인한 영업사원이 담당하고 있는 매장들의 건의문을 해결완료 표시를 할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/97497719-c7b1-438b-be7b-e165c37c3fca" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/49934b7b-8d20-40a9-bec4-cf2acdbe6260" width="100%" height="100%"/>
+</p>
 
 #### 할인율 수정(관리자)
 > 상품의 할인율을 수정(적용)할 수 있다.(Default 0)
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/45ad3a29-9434-4fee-8067-7b06ea67c629" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/4b9fec86-2146-421e-afd2-3eec55cbb8b5" width="100%" height="100%"/>
+</p>
 
 #### 전체 영업사원 리스트 조회(관리자)
 > 관리자는 전체 영업사원을 리스트로 확인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b70ab6e2-0b64-44c3-bcc0-3134e6503184" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/644217ee-2dd1-4927-89c0-3cd25c45ea0c" width="100%" height="100%"/>
+</p>
 
 #### 영업사원 상세 조회(관리자)
 > 관리자는 영업사원의 상세정보를 확인(조회)할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/a382e6e4-9163-4fbe-a77e-750afeb32905" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/3e3e18e1-e404-4bf2-b5ad-c4972a744138" width="100%" height="100%"/>
+</p>
 
 #### 영업사원 정보 수정(관리자)
 > 관리자는 영업사원의 상세정보를 수정할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d831b321-8f83-49bb-bc7f-70b6bc0f65af" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/bf79f806-4365-40e6-a8f9-07bf96c0dc21" width="100%" height="100%"/>
+</p>
 
 #### 영업사원 담당 매장 월 판매량 조회(관리자)
 > 관리자는 각 영업 사원의 담당 매장 월 판매량을 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/7c77fe97-1d4a-4755-8a91-cccb5e9f830f" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d25890b2-7b85-4bce-aa29-82f1f0cefd75" width="100%" height="100%"/>
+</p>
 
 #### 매장 재고 리스트 조회
 > 로그인한 영업사원이 담당하고 있는 각 매장의 상품 재고 리스트를 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/69912f9c-1cbc-476b-b9dd-a533a1c15d96" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/8f6548e6-850a-43fc-9c3c-bb4c373e5703" width="100%" height="100%"/>
+</p>
 
 #### 창고 재고 리스트 조회
 > 창고에 있는 상품의 재고를 리스트로 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/a98d0852-20a1-47fd-a184-df8ed66147c9" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/6a9f5e95-e218-4128-80b9-38173e361dcb" width="100%" height="100%"/>
+</p>
 
 #### 생산요청서 조회
 > 로그인한 영업사원이 본인이 작성한 생산요청서를 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/c0cb75e5-32b5-4829-8218-5b30d9c88d74" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/a40e8f0b-2756-4096-ad94-7cb62f3c7699" width="100%" height="100%"/>
+</p>
 
 #### 생산요청서 상세 조회
 > 로그인한 영업사원이 리스트에서 선택한 생산요청서의 상세정보를 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d6016a83-93c2-4706-8b99-54ea94557daa" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/dee24329-9aca-4f57-bbb3-39c04eab8082" width="100%" height="100%"/>
+</p>
 
 #### 생산요청서 수정
 > 로그인한 영업사원이 본인이 작성한 생산요청서를 수정할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/aa17167f-d25f-408a-830b-0f6ee8ccda73" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f9d1be91-d10f-4b84-9cb9-71a07d08641f" width="100%" height="100%"/>
+</p>
 
 #### 생산요청서 삭제
 > 로그인한 영업사원이 자기가 작성한 생산요청서를 삭제할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/2cba32fb-70b0-4c5e-87af-e95fac8b2e3b" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/99a89a3d-c530-4ffb-91e1-0c754144f75e" width="100%" height="100%"/>
+</p>
 
 #### 상품 리스트 조회
 > 회사에 등록된 상품에 대한 정보를 리스트로 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/eaaca1e9-fe69-4170-b930-2feb60af76a9" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/88a96646-8b8c-4e96-94e5-e976c171155e" width="100%" height="100%"/>
+</p>
 
 #### 상품 상세 조회
 > 각 상품의 상세정보를 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/66fa915b-92d5-42de-9f5b-c14e7490145f" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/a0fe4b0a-37c5-4e25-a6b1-b708091da83c" width="100%" height="100%"/>
+</p>
 
 #### 생산요청서 작성
 > 재고가 부족해 보이는 상품에 대해서 생산요청서를 작성할 수 있다. 관리자에게 작성했다는 알림을 보내야함.
 
+<사진>
 
 
 #### 창고 리스트 조회
 > 회사 창고 리스트를 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/3bdb0007-5ec0-4d23-b3d2-f3d586a59c49" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/5c364791-087d-4dda-bc71-510deea64040" width="100%" height="100%"/>
+</p>
 
 #### 회사 창고 상세 조회
 > 회사 창고의 상세정보를 조회할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/5fffb015-62bd-45dd-b973-8218ff8d2ff2" width="100%" height="100%"/>
+</p>
 
-
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/bd2dd2b0-8c8d-4eb4-a9fb-c35d2c0c99ba" width="100%" height="100%"/>
+</p>
 
 </details>
 
