@@ -1,4 +1,4 @@
-![스크린샷 2024-06-13 092100](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e6d6dca7-dad0-47ba-9286-e60bf45976e8)<div align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&random=false&width=370&lines=Pick+Your+Best+Outfit%2C+OutPick" alt="Typing SVG">
   </a>
@@ -471,7 +471,7 @@ pipeline {
 </p>
 
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/dbabea51-e0f7-4c6d-9b21-4ab8f34dd60b" width="100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/7ec81735-761b-405c-a6e3-f3cde64c085b" width="100%" height="100%"/>
 </p>
 
 #### 로그인한 매장의 재고를 리스트로 확인
@@ -573,9 +573,6 @@ pipeline {
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/a806998c-ad3a-4129-acfc-03691b14086b" width="100%" height="100%"/>
 
 </details>
-
-
-
 
 <br/>
 
