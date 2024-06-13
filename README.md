@@ -496,45 +496,81 @@ pipeline {
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/0231ee75-0440-4878-a96e-18e4fc4cd771" width="100%" height="100%"/>
 </p>
 
-
 #### 재고요청서 페이지로 이동시 상품의 모든정보를 불러옴
 > 입력값 없음.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/592ec80d-16f1-425d-bf6d-6d65ac51977f" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/32bf1660-bb20-417c-84a1-0290723e1b37" width="100%" height="100%"/>
+</p>
 
 #### 재고요청서 작성
 > 매장아이디, 상품 아이디, 수량을 입력할 수있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/97d08962-2bf3-4267-baaf-da5ec035d975" width="100%" height="100%"/>
+</p>
 
-
-#### 재고요청서 상세조회
-> 매장아이디를 입력하여 조회할 수있다.
-
-
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/79ffec45-a63b-4579-9e13-2bc87aaec265" width="100%" height="100%"/>
+</p>
 
 #### 재고요청서의 피드백 상세조회
 > 재고요청서 아이디를 입력하여 조회할 수있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e756c4bb-83fd-44d5-a381-619267765ea3" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/afe6a57f-076c-4721-b3da-1c8ab995bb98" width="100%" height="100%"/>
+</p>
 
 #### 판매내역 추가
 > 매장아이디, 상품아이디, 수량을 입력할 수있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e756c4bb-83fd-44d5-a381-619267765ea3" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/afe6a57f-076c-4721-b3da-1c8ab995bb98" width="100%" height="100%"/>
+</p>
 
 #### 판매내역 리스트 조회
 > 매장아이디를 입력하여 조회할 수있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/5c13f1ef-e808-4c48-be0b-e2afecc5af1a" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/aff7fa2f-46ba-44b9-af02-adc8279112fe" width="100%" height="100%"/>
+</p>
 
 #### 건의사항 작성
 > 매장아이디, 제목, 내용, 카테고리를 입력할 수있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/2cedcdf4-6fcd-4d6d-8fda-eadbff34876b" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/968eb427-8f5d-4adc-b32b-8cb22b19e9ba" width="100%" height="100%"/>
+</p>
 
 #### 건의사항 리스트 조회
 > 매장아이디를 입력하여 조회할 수있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/a42dc4b2-0b90-4f7a-ac1a-406f6e9b5ada" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/a806998c-ad3a-4129-acfc-03691b14086b" width="100%" height="100%"/>
 
 </details>
 
