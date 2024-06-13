@@ -29,8 +29,11 @@
 <br/>
 
 >## 0. Git Repository
-> Frontend(https://github.com/nbbb9/be05-fin-OutPick_Frontend)
-> Backend(https://github.com/nbbb9/be05-fin-OutPick_Backend)
+* [Frontend](https://github.com/nbbb9/be05-fin-OutPick_Frontend
+<br/>
+* [Backend](https://github.com/nbbb9/be05-fin-OutPick_Backend)
+
+<br/>
    
 >## 1. 프로젝트 개요
 >프로젝트 기획서 : 
