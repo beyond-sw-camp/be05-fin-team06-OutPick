@@ -1,4 +1,4 @@
-<div align="center">
+![스크린샷 2024-06-13 092100](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e6d6dca7-dad0-47ba-9286-e60bf45976e8)<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&random=false&width=370&lines=Pick+Your+Best+Outfit%2C+OutPick" alt="Typing SVG">
   </a>
@@ -466,17 +466,35 @@ pipeline {
 #### 로그인
 > 매장명, 매니저 이메일, 매니저 이름을 입력하여 로그인 할 수있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e8a6cd43-7831-464e-ac77-05631ca63a66" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/dbabea51-e0f7-4c6d-9b21-4ab8f34dd60b" width="100%" height="100%"/>
+</p>
 
 #### 로그인한 매장의 재고를 리스트로 확인
-
 > 매장아이디를 입력하여 조회할 수있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f2a03a32-4089-4ca1-8dd3-0c4085c2e16c" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/dbc7d44e-0108-4609-8b60-b8dc3fd32bb4" width="100%" height="100%"/>
+</p>
 
 #### 선택한 재고의 상세정보를 확인
 > 재고아이디를 입력하여 조회할 수있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/de8fc73f-6cf5-4901-8c01-5137f44f6e98" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/0231ee75-0440-4878-a96e-18e4fc4cd771" width="100%" height="100%"/>
+</p>
 
 
 #### 재고요청서 페이지로 이동시 상품의 모든정보를 불러옴
