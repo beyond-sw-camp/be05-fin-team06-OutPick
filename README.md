@@ -90,7 +90,7 @@
 <br/>
 
 >## 4. 요구사항 명세서
->요구사항 명세서 : https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true
+>[요구사항 명세서](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true)
 
 </br>
 <p align="center">
@@ -101,7 +101,7 @@
 <br/>
 
 >## 5. 화면설계서
->Figma : https://www.figma.com/design/wi8ajLQUWntGToZKFLz77M/Untitled?node-id=0%3A1&t=s3S2rUalCspQz62l-1
+>[Figma](https://www.figma.com/design/wi8ajLQUWntGToZKFLz77M/Untitled?node-id=0%3A1&t=s3S2rUalCspQz62l-1)
 
 </br>
 <p align="center">
@@ -126,7 +126,7 @@
 <br/>
 
 >## 7. API 명세서(수정 필)
->API 명세서 : https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true
+>[API 명세서](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
 
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/0476c43c-6b51-40af-8923-e2340634d587" width="=100%" height="100%"/>
