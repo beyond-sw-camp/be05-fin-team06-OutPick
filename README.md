@@ -36,7 +36,7 @@
 
 <br/>
    
->## 1. 프로젝트 개요
+>## 1. 프로젝트 개요(수정 필)
 >[프로젝트 기획서](https://docs.google.com/document/d/e/2PACX-1vRXz16qsa14AtSS3hxbLGdLOLyV3ECUonP_XV0TXHLME7rUtETutvjESXsBJSGwxA/pub)
 
 <details>
