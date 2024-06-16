@@ -81,7 +81,7 @@
 >## 3. WBS
 </br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/596cebe7-840f-477f-a5f8-30ed01dcbdcb" width="100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/9e16a0fc-5d8e-4f36-b18c-a5698d552449" width="100%" height="100%"/>
 </p>
 
     Jira를 사용한 WBS
@@ -93,7 +93,7 @@
 
 </br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d5866800-5d8d-4317-b962-2636ced6e6f5" width="50%" height="50%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b578abdc-8671-4b80-937f-f742d714ce11" width="50%" height="50%"/>
 </p>
 
 <br/>
@@ -128,7 +128,7 @@
 >[API 명세서](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
 
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/0476c43c-6b51-40af-8923-e2340634d587" width="=100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/baaf2a30-68a2-4cb9-a83d-8ffd3065a359" width="=100%" height="100%"/>
 </p>
 
 <br/>
