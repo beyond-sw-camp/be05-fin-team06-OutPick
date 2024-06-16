@@ -30,15 +30,14 @@
 <br/>
 
 >## 0. Dev Git Repository
-* [**Backend**](https://github.com/nbbb9/be05-fin-OutPick_Backend)
+* [**Backend Repository**](https://github.com/nbbb9/be05-fin-OutPick_Backend)
 
-* [**Frontend**](https://github.com/nbbb9/be05-fin-OutPick_Frontend)
+* [**Frontend Repository**](https://github.com/nbbb9/be05-fin-OutPick_Frontend)
 
 <br/>
    
 >## 1. 프로젝트 개요
->프로젝트 기획서 : 
-[https://docs.google.com/document/d/17gZVJZlVhoHPrqbLCWg0UObO26iusi56/edit?usp=sharing&ouid=103966248639438099916&rtpof=true&sd=true](https://docs.google.com/document/d/e/2PACX-1vRXz16qsa14AtSS3hxbLGdLOLyV3ECUonP_XV0TXHLME7rUtETutvjESXsBJSGwxA/pub)
+>[프로젝트 기획서](https://docs.google.com/document/d/e/2PACX-1vRXz16qsa14AtSS3hxbLGdLOLyV3ECUonP_XV0TXHLME7rUtETutvjESXsBJSGwxA/pub)
 
 <details>
 <summary>프로젝트 개요</summary>
