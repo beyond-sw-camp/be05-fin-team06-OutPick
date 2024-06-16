@@ -93,7 +93,7 @@
 
 </br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b578abdc-8671-4b80-937f-f742d714ce11" width="50%" height="50%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b578abdc-8671-4b80-937f-f742d714ce11" width="80%" height="80%"/>
 </p>
 
 <br/>
@@ -128,7 +128,7 @@
 >[API 명세서](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
 
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/baaf2a30-68a2-4cb9-a83d-8ffd3065a359" width="=100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/baaf2a30-68a2-4cb9-a83d-8ffd3065a359" width="=80%" height="80%"/>
 </p>
 
 <br/>
