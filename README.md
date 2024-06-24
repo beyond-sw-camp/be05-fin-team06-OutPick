@@ -178,7 +178,14 @@
 #### 로그인한 사원의 정보 조회
 > 로그인한 사원 본인의 사원 정보를 불러와서 인포윈도우에서 확인할 수 있다.
 
-<p alig회
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e2ff0ae7-5163-46b3-88f5-be6e3b2c5647" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/165fac0c-5ce6-48b0-995a-fb47f3ebaea5" width="100%" height="100%"/>
+</p>
+
 > 관리자 : 모든 재고요청서 단일 조회 / 사원 : 담당 매장의 재고요청서만 단일 조회 가능.
 
 <p align="center">
