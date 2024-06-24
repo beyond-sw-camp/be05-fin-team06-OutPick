@@ -289,8 +289,8 @@
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/c50a0660-401c-4106-80dd-67b1b5742f74" width="100%" height="100%"/>
 </p>
 
-#### 재고요청서 반려 시 피드백 전송(분석 포함)(진행중)
-> 로그인한 영업사원이 담당하고 있는 매장들의 재고 요청서를 반려할 때 피드백을 매장 프로그램으로 보낼 수 있다.(분석포함)
+#### 재고요청서 반려 & 피드백
+> 로그인한 영업사원이 담당하고 있는 매장들의 재고 요청서를 반려할 때 피드백을 매장 프로그램으로 보낼 수 있다.
 
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f834230e-134a-45ca-b31a-960ed1b8b27b" width="100%" height="100%"/>
