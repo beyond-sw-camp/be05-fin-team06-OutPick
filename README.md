@@ -173,7 +173,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e8a6cd43-7831-464e-ac77-05631ca63a66" width="100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/94bbb0ce-8ca6-4106-8841-0cff690255f0" width="100%" height="100%"/>
 </p>
 
 #### 로그인한 사원의 정보 조회
