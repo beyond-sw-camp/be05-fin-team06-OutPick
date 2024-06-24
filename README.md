@@ -36,7 +36,7 @@
 
 <br/>
    
->## 1. 프로젝트 개요(수정 필)
+>## 1. 프로젝트 개요
 >[프로젝트 기획서](https://docs.google.com/document/d/e/2PACX-1vRXz16qsa14AtSS3hxbLGdLOLyV3ECUonP_XV0TXHLME7rUtETutvjESXsBJSGwxA/pub)
 
 <details>
@@ -657,6 +657,17 @@
 
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/79ffec45-a63b-4579-9e13-2bc87aaec265" width="100%" height="100%"/>
+</p>
+
+#### 재고요청서 리스트 조회
+> 매장 아이디를 입력하여 해당 매장의 매니저가 작성한 재고요청서를 리스트로 확인
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/2af2209f-23d9-46d3-a378-f52fc5439410" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/74b7992d-db37-4450-a32f-3ccd08dc7768" width="100%" height="100%"/>
 </p>
 
 #### 재고요청서의 피드백 상세조회
