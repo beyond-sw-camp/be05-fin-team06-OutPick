@@ -198,15 +198,15 @@
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/603ddbb8-c585-41a7-8bf6-a95270740390" width="100%" height="100%"/>
 </p>
 
-#### 매장별 재고요청서 리스트 조회(관리자)
-> 매장별 재고요청서를 리스트로 확인할 수 있다.
+#### 재고요청서 리스트 조회
+> 관리자 : 모든 재고요청서 리스트 전체 조회 / 사원 : 담당 매장의 재고요청서들 조회
 
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/1554ee61-f8b7-4b3f-80f1-31b7b412c094" width="100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/9221eb26-4a95-43e1-9784-d1f5206b3cfc" width="100%" height="100%"/>
 </p>
 
 <p align="center">
-<img src="[https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/603ddbb8-c585-41a7-8bf6-a95270740390](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/374e0992-21d1-4b40-9219-0315c41ab9bb)" width="100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/72279acf-6632-43f5-80f6-e883e9be0b24" width="100%" height="100%"/>
 </p>
 
 #### 재고요청서 상세 조회(관리자)
