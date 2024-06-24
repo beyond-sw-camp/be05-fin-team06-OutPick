@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&random=false&width=370&lines=Pick+Your+Best+Outfit%2C+OutPick" alt="Typing SVG">
   </a>
 </div>
+
 ![매장 로그인](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/35ad5158-b2ae-45a0-888e-8658f0c78771)
 
 
