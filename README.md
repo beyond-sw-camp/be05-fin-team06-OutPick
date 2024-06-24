@@ -256,28 +256,6 @@
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/13ade84f-0fa7-40a2-8a53-70742295c83b" width="100%" height="100%"/>
 </p>
 
-#### 매장별 월 상세판매량 분석(분류1)
-> 특정 매장의 특정 월 특정 상품 / 특정 색깔 / 판매량을 조회할 수 있다.(좌측 하단의 그래프에서 특정 매장을 눌렀을 때) -1차
-
-<p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f31d4fa2-e456-42cf-9a62-bf322e4fddb8" width="100%" height="100%"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/573670bf-a105-4d1a-96bc-ea5a0f1c8b4c" width="100%" height="100%"/>
-</p>
-
-#### 매장별 월 상세판매량 분석(분류1, 분류2)
-> 특정 매장의 특정 월 특정 상품 / 특정 색깔 / 판매량을 조회할 수 있다.(좌측 하단의 그래프에서 특정 매장을 눌렀을 때) -2차
-
-<p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/0d0f50ce-93c8-4d91-8cd0-f7fd2db04fd5" width="100%" height="100%"/>
-</p>
-
-<p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/3fd35946-8e70-4c62-98b8-be33be06efaf" width="100%" height="100%"/>
-</p>
-
 #### 담당 매장 리스트 조회
 > 로그인한 영업사원이 관리하는 매장을 리스트로 확인할 수 있다.
 
@@ -314,7 +292,13 @@
 #### 재고요청서 반려 시 피드백 전송(분석 포함)(진행중)
 > 로그인한 영업사원이 담당하고 있는 매장들의 재고 요청서를 반려할 때 피드백을 매장 프로그램으로 보낼 수 있다.(분석포함)
 
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f834230e-134a-45ca-b31a-960ed1b8b27b" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/19e1b91d-8413-422d-8f42-92350af938b5" width="100%" height="100%"/>
+</p>
 
 #### 재고요청서 리스트 조회
 > 로그인한 영업사원이 담당하고 있는 매장들의 재고요청서를 리스트로 확인할 수 있다.
