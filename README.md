@@ -4,9 +4,6 @@
   </a>
 </div>
 
-![매장 로그인](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/35ad5158-b2ae-45a0-888e-8658f0c78771)
-
-
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-4th-6team-OutPick/assets/113917104/b4fe368b-e161-4ff1-a600-be6e5171eb8b" width="100%" height="100%"/>
 </p>
