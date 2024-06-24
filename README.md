@@ -179,7 +179,13 @@
 #### 로그인한 사원의 정보 조회
 > 로그인한 사원 본인의 사원 정보를 불러와서 인포윈도우에서 확인할 수 있다.
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/88e20934-c06b-4ae1-909f-ba6398ff9365" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d5f81e35-76d7-46c4-b91c-0ce9043f5f4f" width="100%" height="100%"/>
+</p>
 
 #### 재고요청서 전체 조회(관리자)
 > 관리자는 전체 재고요청서를 리스트로 확인할 수 있다.
