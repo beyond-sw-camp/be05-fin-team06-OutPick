@@ -15,17 +15,17 @@
 [0. Dev Git Repository](#0-Dev-Git-Repository)</br></br>
 [1. 프로젝트 개요](#1-프로젝트-개요)</br></br>
 [2. 팀 소개](#2-팀-소개)</br></br>
-[3. WBS](#3-WBS)</br></br>
-[4. 요구사항 명세서](#4-요구사항-명세서)</br></br>
-[5. 화면설계서](#5-화면설계서)</br></br>
-[6. ERD](#6-ERD)</br></br>
-[7. API 명세서](#7-API-명세서)</br></br>
-[8. 기술 스택](#8-기술-스택)</br></br>
-[9. 시스템 아키텍쳐](#9-시스템-아키텍쳐)</br></br>
-[10. CI/CD 계획서](#)</br></br>
+[3. 기술 스택](#3-기술-스택)</br></br>
+[4. WBS](#4-WBS)</br></br>
+[5. 시스템 아키텍쳐](#5-시스템-아키텍쳐)</br></br>
+[6. 요구사항 명세서](#6-요구사항-명세서)</br></br>
+[7. ERD](#7-ERD)</br></br>
+[8. API 명세서](#8-API-명세서)</br></br>
+[9. 화면설계서](#9-화면설계서)</br></br>
+[10. CI/CD 계획서](10-CI/CD-계획서#)</br></br>
 [11. 단위 테스트](#11-단위-테스트)</br></br>
-[12. UI/UX 단위 테스트](#13-UI/UX-단위-테스트)</br></br>
-[13. 통합 테스트](#12-통합-테스트)</br></br>
+[12. UI/UX 단위 테스트](#12-UI/UX-단위-테스트)</br></br>
+[13. 통합 테스트](#13-통합-테스트)</br></br>
 
 <br/>
 <br/>
@@ -79,8 +79,18 @@
 </br>
 </br>
 
-># 3. WBS
-* **Jira를 사용한 WBS**
+># 3. 기술 스택
+* **Database :**
+<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"><br/></br>
+* **Backend   :** <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br/></br>
+* **Frontend :** <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"><br/><br>
+* **CI/CD :** <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/dockerhub-2496ED?style=for-the-badge&logo=dockerhub&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+
+</br>
+</br>
+
+># 4. WBS
+**Jira를 사용한 WBS**
 </br>
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/9e16a0fc-5d8e-4f36-b18c-a5698d552449" width="100%" height="100%"/>
@@ -89,8 +99,17 @@
 <br/>
 <br/>
 
-># 4. 요구사항 명세서
-[* **문서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true)
+># 5. 시스템 아키텍쳐
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d9e6c888-91ca-4fa1-9b6a-bf94be66339e" width="100%" height="100%"/>
+</p>
+
+</br>
+</br>
+
+># 6. 요구사항 명세서
+[**문서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true)
 </br>
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b578abdc-8671-4b80-937f-f742d714ce11" width="100%" height="100%"/>
@@ -99,18 +118,8 @@
 <br/>
 <br/>
 
-># 5. 화면설계서
-[* **Figma 바로가기**](https://www.figma.com/design/wi8ajLQUWntGToZKFLz77M/Untitled?node-id=0%3A1&t=s3S2rUalCspQz62l-1)
-</br>
-<p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d5aae3da-dba4-45cb-8ed9-27df064dc50c" width="100%" height="100%"/>
-</p>
-
-<br/>
-<br/>
-
-># 6. ERD
-* **ERD Cloud를 통한 ERD 제작**
+># 7. ERD
+**ERD Cloud를 통한 ERD 제작**
 </br>
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/096bc59e-c53a-4e44-abe4-2c874e9e52f7" width="=100%" height="100%"/>
@@ -119,8 +128,8 @@
 <br/>
 <br/>
 
-># 7. API 명세서
-[* **문서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
+># 8. API 명세서
+[**문서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
 </br>
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/baaf2a30-68a2-4cb9-a83d-8ffd3065a359" width="=80%" height="80%"/>
@@ -129,22 +138,14 @@
 <br/>
 <br/>
 
-># 8. 기술 스택
-* **Database :**
-<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"><br/></br>
-* **Backend   :** <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br/></br>
-* **Frontend :** <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"><br/><br>
-* **CI/CD :** <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/dockerhub-2496ED?style=for-the-badge&logo=dockerhub&logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-
-<br/>
-<br/>
-
-># 9. 시스템 아키텍쳐
-
+># 9. 화면설계서
+[**Figma 바로가기**](https://www.figma.com/design/wi8ajLQUWntGToZKFLz77M/Untitled?node-id=0%3A1&t=s3S2rUalCspQz62l-1)
+</br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d9e6c888-91ca-4fa1-9b6a-bf94be66339e" width="100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d5aae3da-dba4-45cb-8ed9-27df064dc50c" width="100%" height="100%"/>
 </p>
 
+<br/>
 <br/>
 
 ># 10. CI/CD 계획서
@@ -1056,7 +1057,7 @@ pipeline {
 <br/>
 
 ># 12. 통합 테스트
-[* **문서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=343013399&single=true)
+[**문서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=343013399&single=true)
 </br>
 
 <p align="center">
