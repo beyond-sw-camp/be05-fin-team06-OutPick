@@ -23,7 +23,7 @@
 [9. 시스템 아키텍쳐](#9-시스템-아키텍쳐)</br></br>
 [10. CI/CD 계획서](#)</br></br>
 [11. 단위 테스트](#11-단위-테스트)</br></br>
-[12. 기능 테스트](#12-기능-테스트)</br></br>
+[12. 통합 테스트](#12-통합-테스트)</br></br>
 [13. UI/UX 단위 테스트](#13-UI/UX-단위-테스트)</br></br>
 
 <br/>
@@ -720,7 +720,9 @@
 
 <br/>
 
->## 12. 기능 테스트
+>## 12. 통합 테스트
+
+### [통합테스트](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=343013399&single=true)
 
 >## 13. UI/UX 단위 테스트
 <details>
