@@ -328,81 +328,130 @@
 #### 16. 통계/분석 _ 1차 분류 판매량
 > 특정 년도의 계절별 카테고리, 색상, 핏의 판매량을 조회할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/4e033c11-2666-42bd-a6c4-252ec4f1d515" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/8ba10a65-78cd-4462-b8d2-bf76ff25f8ff" width="100%" height="100%"/>
+</p>
 
 #### 17. 통계/분석 _ 2차 분류 판매량
 > 특정 년도의 핏별 계절, 카테고리의 판매량을 조회할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/7d52ac47-3927-4833-a3b0-142ff2946c49" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e5267a3e-ee60-43f2-aeb8-dea522c038b4" width="100%" height="100%"/>
+</p>
 
 #### 18. 통계/분석 _ 가격별 판매량
 > 특정 년도 특정 매장의 가격별 판매량을 조회할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f73284aa-4839-4d55-9280-42a6f11dc762" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/11617056-ef9b-4226-9ad0-2a891d018bec" width="100%" height="100%"/>
+</p>
 
 #### 19. 통계/분석 _ 매장별 특정 상품 판매량
 > 재고요청서 상세보기에서 매장의 특정 상품 연간 판매량을 조회할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/767691c9-74f7-46cb-ad55-4dfe10009fdd" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b53fb653-63a1-4dfb-84a6-e99f73d3a347" width="100%" height="100%"/>
+</p>
 
 #### 20. 통계/분석 _ 판매량 내림차순 조회
 > 특정 매장의 상품들을 판매량이 높은 순서대로 조회할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/47144d78-2c61-4009-9d79-192f21dec778" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/18a08ef1-0335-445b-9f94-7144634e07d6" width="100%" height="100%"/>
+</p>
 
 #### 21. 매장 _ 매장 리스트 조회
 > 전체 매장을 리스트로 조회할 수 있다.
 
-<사진>
-<사진>
-
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/929a8a52-951b-43d3-88bc-81bb82eb478a" width="100%" height="100%"/>
+</p>
 
 #### 22. 매장 _ 담당 매장 리스트 조회
 > 로그인한 영업사원이 담당하는 매장을 리스트로 조회할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/ac63bc82-7f1d-427d-ab23-4c33ae67f33c" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/81806b1d-407f-41f5-bc53-bedadc0913dd" width="100%" height="100%"/>
+</p>
 
 #### 23. 매장 _ 담당 매장 상세 조회
 > 로그인한 영업사원이 담당하는 매장을 상세조회 할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/cea00d53-bb51-4228-a33f-c90a14ec63ca" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/685ed7f8-c1fe-48e2-bfac-7b36f7100145" width="100%" height="100%"/>
+</p>
 
 #### 24. 재고요청서 _ 재고요청서 리스트 조회
 > 매장들의 재고요청서를 리스트로 확인할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/12342473-c8c4-48c2-9206-dcddf1f511d1" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b47339e0-b7d0-4cb9-a19d-041127b7fbc1" width="100%" height="100%"/>
+</p>
 
 #### 25. 재고요청서 _ 재고요청서 상세조회
 > 매장들의 재고요청서 상세 정보를 확인할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/a445acf0-12ed-4a5f-a708-03b668dc6001" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/28476657-adb5-4ad5-8e86-1cdbdd4be69b" width="100%" height="100%"/>
+</p>
 
 #### 26. 재고요청서 _ 재고요청서 1차 승인
 > 일반사원은 담당 매장의 재고요청서에 대해 1차 승인할 수 있다.
 
-<사진>
-<사진
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/20c1c408-8904-45c1-8dda-a0b009703f6a" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/712c5474-f513-4c65-9e4d-169bfd3a290b" width="100%" height="100%"/>
+</p>
 
 #### 27. 재고요청서 _ 재고요청서 반려 & 피드백 작성
 > 일반사원은 담당 매장의 재고요청서에 대해 피드백 작성과 함께 반려할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/14fc81ec-236c-440e-8f71-0632dcc688df" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/42e7c5e1-3f63-40d4-9ef9-ec342300be95" width="100%" height="100%"/>
+</p>
 
 #### 28. 건의문 _ 건의문 리스트 조회
 > 매장들의 건의문을 리스트로 확인할 수 있다.
