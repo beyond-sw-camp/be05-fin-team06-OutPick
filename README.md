@@ -189,28 +189,46 @@
 #### 3. 관리자 _ 전체 영업사원 리스트 조회
 > 관리자는 전체 영업사원을 리스트로 확인할 수 있다.
 
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/dcfa6a08-3130-4284-9f01-72722ba315ec" width="100%" height="100%"/>
+</p>
 
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/ca3b224d-051c-4110-93f8-815e762d625f" width="100%" height="100%"/>
+</p>
 
 #### 4. 관리자 _ 영업사원 상세조회
 > 관리자는 전체 영업사원을 상세조회 할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/87f0d020-38ae-4169-a146-14f609523a10" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/108129cd-6fb5-4d28-8f57-0f4a02690e26" width="100%" height="100%"/>
+</p>
 
 #### 5. 관리자 _ 영업사원 정보 수정
 > 관리자는 전체 영업사원의 상세벙보를 수정할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/84eceadc-f6b2-4dd5-b187-6ecf6bee522a" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b9dadbbb-4bf5-42cc-a607-823d2250f3f0" width="100%" height="100%"/>
+</p>
 
 #### 6. 관리자 _ 영업사원 판매량 조회
 > 관리자는 각 영업사원이 담당한 매장의 특정 년도 월 판매량을 조회할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/bfe17691-dd96-4ea4-afb8-657ebe97bff1" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b1a251ba-c88c-4d79-a8b2-a877fd9dca71" width="100%" height="100%"/>
+</p>
 
 #### 7. 관리자 _ 재고요청서 리스트 조회
 > 관리자는 영업사원으로 부터 1차 승인된 재고요청서를 리스트로 확인할 수 있다.
@@ -218,60 +236,94 @@
 <사진>
 <사진>
 
+
 #### 8. 관리자 _ 매장별 재고요청서 리스트 조회
 > 관리자는 매장별 재고요청서를 리스트로 확인할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/a6735233-e260-4cb7-b33e-477d85aa4917" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d2b7c6eb-d8e1-44b2-9172-251e35a7f43a" width="100%" height="100%"/>
+</p>
 
 #### 9. 관리자 _ 재고요청서 상세 조회
 > 관리자는 리스트에서 선택한 재고요청서의 상세정보를 확인할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f71d961f-b884-4003-afb1-f86a158d9fb6" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b457c6b7-e70c-47bd-a4d5-3f9ac377f7fb" width="100%" height="100%"/>
+</p>
 
 #### 10 . 관리자 _ 재고요청서 승인
 > 관리자는 1차 승인된 재고요청서를 2차(최종) 승인할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/2881d63d-22e0-4b3d-bf97-2d0b1356f038" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/89aa14ce-f6d3-441f-a867-7413ca2fc403" width="100%" height="100%"/>
+</p>
 
 #### 11. 관리자 _ 생산요청서 리스트 조회
 > 관리자는 영업사원이 작성한 전체 생산요청서를 리스트로 확인할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/1e82fa79-8f3e-4354-992f-81fd0a9f49ba" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/562c6f02-7305-4962-821e-91419250aa74" width="100%" height="100%"/>
+</p>
 
 #### 12. 관리자 _ 생산요청서 상세 조회
 > 관리자는 전체 생산요청서의 상세 정보를 확인할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/aae52418-5cc9-4fa5-a4da-077cb95cb4aa" width="100%" height="100%"/>
+</p>
 
-
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/64772ae7-5d4f-4df7-8d46-6522d54874cd" width="100%" height="100%"/>
+</p>
 
 #### 13. 관리자 _ 생산요청서 승인
 > 관리자는 생산요청서를 승인할 수 있다.
 
-<사진> 
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/9b401c60-0cac-431d-ba1f-630e2164eca3" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/61610605-8994-4f62-b072-976bc57fc8f7" width="100%" height="100%"/>
+</p>
 
 #### 14. 통계/분석 _ 년도별 월 판매량 & 매출 조회
 > 회사의 특정 년도 월별 판매량과 매출을 조회할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/64e9cb10-01f5-49f0-9b75-eaed4f7f61e3" width="100%" height="100%"/>
+</p>
 
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/1d05a255-97ba-493d-bc15-d40887e5f520" width="100%" height="100%"/>
+</p>
 
 #### 15. 통계/분석 _ 년도&월 별 매장의 판매량 & 매출 조회
 > 특정 년도, 월별 매장의 판매량과 매출을 조회할 수 있다.
 
-<사진>
-<사진>
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/17e7800f-716c-49f5-9e74-e20fbd6f3985" width="100%" height="100%"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/1479e83c-24a9-4d2b-9567-d536fa172ad8" width="100%" height="100%"/>
+</p>
 
 #### 16. 통계/분석 _ 1차 분류 판매량
 > 특정 년도의 계절별 카테고리, 색상, 핏의 판매량을 조회할 수 있다.
