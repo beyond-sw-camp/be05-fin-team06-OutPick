@@ -37,7 +37,7 @@
 <br/>
    
 >## 1. 프로젝트 개요
->[프로젝트 기획서](https://docs.google.com/document/d/e/2PACX-1vRXz16qsa14AtSS3hxbLGdLOLyV3ECUonP_XV0TXHLME7rUtETutvjESXsBJSGwxA/pub)
+>[**>문서로 이동<**](https://docs.google.com/document/d/e/2PACX-1vRXz16qsa14AtSS3hxbLGdLOLyV3ECUonP_XV0TXHLME7rUtETutvjESXsBJSGwxA/pub)
 
 <details>
 <summary>프로젝트 개요</summary>
@@ -79,53 +79,50 @@
 </br>
 
 >## 3. WBS
+> Jira를 사용한 WBS
 </br>
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/9e16a0fc-5d8e-4f36-b18c-a5698d552449" width="100%" height="100%"/>
 </p>
 
-    Jira를 사용한 WBS
 <br/>
 <br/>
 
 >## 4. 요구사항 명세서
->[요구사항 명세서](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true)
+>[**>문서로 이동<**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true)
 
 </br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b578abdc-8671-4b80-937f-f742d714ce11" width="80%" height="80%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b578abdc-8671-4b80-937f-f742d714ce11" width="100%" height="100%"/>
 </p>
 
 <br/>
 <br/>
 
 >## 5. 화면설계서
->[Figma](https://www.figma.com/design/wi8ajLQUWntGToZKFLz77M/Untitled?node-id=0%3A1&t=s3S2rUalCspQz62l-1)
+>[**Figma 바로가기**](https://www.figma.com/design/wi8ajLQUWntGToZKFLz77M/Untitled?node-id=0%3A1&t=s3S2rUalCspQz62l-1)
 
 </br>
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d5aae3da-dba4-45cb-8ed9-27df064dc50c" width="100%" height="100%"/>
 </p>
 
-    Figma를 통한 화면설계서
-
 <br/>
 <br/>
 
 >## 6. ERD
+>ERD Cloud를 통한 ERD 제작
 
 </br>
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/096bc59e-c53a-4e44-abe4-2c874e9e52f7" width="=100%" height="100%"/>
 </p>
 
-    ERD Cloud를 통한 ERD 제작
-
 <br/>
 <br/>
 
 >## 7. API 명세서
->[API 명세서](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
+>[**>문서로 이동<**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
 
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/baaf2a30-68a2-4cb9-a83d-8ffd3065a359" width="=80%" height="80%"/>
@@ -579,17 +576,14 @@
 #### 42. 상품 _ 생산요청서 작성
 > 재고가 부족해 보이는 상품에 대해서 생산요청서를 작성할 수 있다.
 
-
 ![스크린샷 2024-06-25 152723](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b348140d-4d61-46b5-a03d-18c09b355b21)
 ![스크린샷 2024-06-25 152714](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/11439a5d-0312-40a9-a7b2-680b322720ea)
-
 
 #### 43. 물류센터 리스트 조회
 > 물류센터(회사창고)를 리스트로 조회할 수 있다.
 
 ![스크린샷 2024-06-25 152820](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/13f1faa2-125c-42c0-95cd-feda39e6a2af)
 ![스크린샷 2024-06-25 152809](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e78e2350-070c-4543-9ef1-7563d22e4d83)
-
 
 </details>
 
@@ -721,8 +715,7 @@
 <br/>
 
 >## 12. 통합 테스트
-
-### [통합테스트](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=343013399&single=true)
+>[**>문서로 이동<**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=343013399&single=true)
 
 >## 13. UI/UX 단위 테스트
 <details>
@@ -773,7 +766,6 @@
 ![11 전체 생산요청서 조회 상세 승인](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f91c7b2c-5fa1-4a51-a491-ec03d4a8216a)
 
 </details>
-</br>
 
 <details>
 <summary>본사 프로그램 _ 사원 </summary>
@@ -840,7 +832,6 @@
 
 </details>
 
-</br>
 <details>
 <summary>매장 프로그램</summary>
 
