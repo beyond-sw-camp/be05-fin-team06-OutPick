@@ -146,12 +146,8 @@
 >## 9. 시스템 아키텍쳐(수정 필 _ 프론트, 백엔드 나눠서_ 상의 필요)
 
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/707b43ca-984a-41c9-bdb0-5d57b0cbd44d" width="100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d9e6c888-91ca-4fa1-9b6a-bf94be66339e" width="100%" height="100%"/>
 </p>
-
-    백엔드 아키텍쳐
-
-    프론트엔드 아키텍쳐
 
 <br/>
 
