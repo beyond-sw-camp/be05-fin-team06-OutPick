@@ -228,8 +228,8 @@
     - 데이터 전송 속도 향상
         : 우리 서버의 더미 데이터는 20만 개가 넘어간다. 이로 인해 통계를 도출할 때 10초가 넘는 지연시간이 발생한다.
           이러한 경험이 반복될수록 사용자에게 불쾌감을 줄 수 있기에, 이를 AWS CloudFront를 통해 해결할 수 있었다.
-<img src="image-1.png" alt="" width="500" height="200"> `localhost`
-<img src="image-2.png" alt="" width="500" height="200"> `AWS CloudFront` 
+<img src="assets/image-1.png" alt="" width="500" height="200"> `localhost`
+<img src="assets/image-2.png" alt="" width="500" height="200"> `AWS CloudFront` 
     
     → AWS CloudFront 부분의 성능 부분이 눈에 띄게 좋아진 것을 확인할 수 있다.
 
@@ -275,52 +275,52 @@
 
 ` 1. 백엔드 - appspec.yml `
 
-<img src="image-3.png" alt="" width="500" height="430">
+<img src="assets/image-3.png" alt="" width="500" height="430">
 
 </br>
 
 ` 2. 백엔드 - Scripts/cleanup_sh `
 
-<img src="image-4.png" alt="" width="500" height="260">
+<img src="assets/image-4.png" alt="" width="500" height="260">
 
 </br>
 
 ` 3. 백엔드 - Scripts/stop.sh `
 
-<img src="image-5.png" alt="" width="500" height="500">
+<img src="assets/image-5.png" alt="" width="500" height="500">
 
 </br>
 
 ` 4. 백엔드 - Scripts/start.sh `
 
-<img src="image-6.png" alt="" width="500" height="450">
-<img src="image-7.png" alt="" width="500" height="300">
+<img src="assets/image-6.png" alt="" width="500" height="450">
+<img src="assets/image-7.png" alt="" width="500" height="300">
 
 </br>
 
 ` 5. webhook 설정 `
 
-<img src="image-8.png" alt="" width="630" height="290">
+<img src="assets/image-8.png" alt="" width="630" height="290">
 
 </br>
 
 ` 6. Jenkins Credentials `
 
-<img src="image-9.png" alt="" width="630" height="130">
+<img src="assets/image-9.png" alt="" width="630" height="130">
 
 </br>
 
 ` 7. Jenkins Plugins `
 
-<img src="image-10.png" alt="" width="630" height="130"> <br> → AWS 의 액세스 키로 Credentials 를 생성하기 위한 플러그인
+<img src="assets/image-10.png" alt="" width="630" height="130"> <br> → AWS 의 액세스 키로 Credentials 를 생성하기 위한 플러그인
 
-<img src="image-11.png" alt="" width="630" height="200"> <br> → Github Pull Request 만 알림 받기 위한 플러그인
+<img src="assets/image-11.png" alt="" width="630" height="200"> <br> → Github Pull Request 만 알림 받기 위한 플러그인
 
 </br>
 
 ` 8. Jenkins Item 생성 `
 
-<img src="image-12.png" alt="" width="630" height="200"> <br> → 프론트 엔드와 백엔드 Item 생성
+<img src="assets/image-12.png" alt="" width="630" height="200"> <br> → 프론트 엔드와 백엔드 Item 생성
 
 <br/>
 
@@ -467,32 +467,32 @@ pipeline {
     - Github Pull Request
     - Jenkins 자동 build + 배포 진행 + 캐시 초기화
 
-<img src="image-13.png" alt="" width="630" height="230">
-<img src="image-14.png" alt="" width="430" height="200">
-<img src="image-15.png" alt="" width="630" height="300">
+<img src="assets/image-13.png" alt="" width="630" height="230">
+<img src="assets/image-14.png" alt="" width="430" height="200">
+<img src="assets/image-15.png" alt="" width="630" height="300">
 
     - S3 업로드 내역
-<img src="image-16.png" alt="" width="630" height="300">
+<img src="assets/image-16.png" alt="" width="630" height="300">
 
 </br>
 
 ` 11. Backend `
 
     - Github Pull Request
-<img src="image-17.png" alt="" width="630" height="350">
+<img src="assets/image-17.png" alt="" width="630" height="350">
 
     - Jenkins 자동 build + 배포 진행
 
-<img src="image-18.png" alt="" width="430" height="200">
+<img src="assets/image-18.png" alt="" width="430" height="200">
 
-<img src="image-19.png" alt="" width="630" height="160">
+<img src="assets/image-19.png" alt="" width="630" height="160">
 
     - s3 업로드 내역
-<img src="image-20.png" alt="" width="630" height="300">
+<img src="assets/image-20.png" alt="" width="630" height="300">
 
     - CodeDeploy 배포
-<img src="image-21.png" alt="" width="630" height="300">
-<img src="image-22.png" alt="" width="630" height="230">
+<img src="assets/image-21.png" alt="" width="630" height="300">
+<img src="assets/image-22.png" alt="" width="630" height="230">
 
 </br>
 
