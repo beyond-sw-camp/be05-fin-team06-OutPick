@@ -233,8 +233,8 @@
 #### 7. 관리자 _ 재고요청서 리스트 조회
 > 관리자는 영업사원으로 부터 1차 승인된 재고요청서를 리스트로 확인할 수 있다.
 
-<사진>
-<사진>
+![스크린샷 2024-06-25 153025](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/5fed4e72-5f59-452d-8555-a4cfbf86f90a)
+![스크린샷 2024-06-25 153001](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/1ad8aa69-714a-43c2-86f2-b88ba1b38f6e)
 
 
 #### 8. 관리자 _ 매장별 재고요청서 리스트 조회
