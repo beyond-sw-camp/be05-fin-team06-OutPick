@@ -69,7 +69,7 @@
 
 |<img src="https://avatars.githubusercontent.com/u/83454423?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134581020?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/113917104?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/137466623?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134200142?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
-|박혜경<br/>[@BakHyegyeong](https://github.com/BakHyegyeong)|여경원<br/>[@kyungwon2won2](https://github.com/kyungwon2won2)|이영원<br/>[@nbbb9](https://github.com/nbbb9)|정설화<br/>[@Noononda](https://github.com/Noononda)|백승호<br/>[@sttoend](https://github.com/sttoend)|
+|[박혜경](https://github.com/BakHyegyeong)|[여경원](https://github.com/kyungwon2won2)|[이영원](https://github.com/nbbb9)|[정설화](https://github.com/Noononda)|[백승호](https://github.com/sttoend)|
 
 </div>
 
@@ -111,7 +111,7 @@
 <br/>
 <br/>
 
->## 6. ERD(사진 수정 필)
+>## 6. ERD
 
 </br>
 <p align="center">
@@ -123,7 +123,7 @@
 <br/>
 <br/>
 
->## 7. API 명세서(수정 필)
+>## 7. API 명세서
 >[API 명세서](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
 
 <p align="center">
@@ -133,7 +133,7 @@
 <br/>
 <br/>
 
->## 8. 기술 스택(수정 필)
+>## 8. 기술 스택
 * **Database :**
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white"><br/>
 * **Backend   :** <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><br/>
@@ -143,7 +143,7 @@
 <br/>
 <br/>
 
->## 9. 시스템 아키텍쳐(수정 필 _ 프론트, 백엔드 나눠서_ 상의 필요)
+>## 9. 시스템 아키텍쳐
 
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/d9e6c888-91ca-4fa1-9b6a-bf94be66339e" width="100%" height="100%"/>
