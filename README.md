@@ -71,7 +71,7 @@
 
 |<img src="https://avatars.githubusercontent.com/u/83454423?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134581020?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/113917104?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/137466623?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/134200142?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
-|[박혜경](https://github.com/BakHyegyeong)|[여경원](https://github.com/kyungwon2won2)|[이영원](https://github.com/nbbb9)|[정설화](https://github.com/Noononda)|[백승호](https://github.com/sttoend)|
+|[**박혜경**](https://github.com/BakHyegyeong)|[**여경원**](https://github.com/kyungwon2won2)|[**이영원**](https://github.com/nbbb9)|[**정설화**](https://github.com/Noononda)|[**백승호**](https://github.com/sttoend)|
 
 </div>
 
@@ -148,6 +148,8 @@
 <br/>
 
 ># 10. CI/CD 계획서
+<details>
+<summary>내용 자세히</summary>
 
 ### 1. Devops tool : Jenkins
      지속적 통합 및 지속적 배포(CI/CD) 파이프라인을 자동화하기 위한 오픈소스 자동화 서버이다.
@@ -492,8 +494,10 @@ pipeline {
 <img src="assets/image-21.png" alt="" width="630" height="300">
 <img src="assets/image-22.png" alt="" width="630" height="230">
 
-</br>
+</details>
 
+</br>
+</br>
 
 ># 11. 단위 테스트
 
