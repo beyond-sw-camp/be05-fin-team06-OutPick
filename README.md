@@ -152,12 +152,350 @@
 >## 10. CI/CD 계획서
 
 ### 1. Devops tool : Jenkins
-> 지속적 통합 및 지속적 배포(CI/CD) 파이프라인을 자동화하기 위한 오픈소스 자동화 서버이다.
+     지속적 통합 및 지속적 배포(CI/CD) 파이프라인을 자동화하기 위한 오픈소스 자동화 서버이다.
 
 #### * 장점 
-    Git과 같은 버전관리시스템과 연동하여 코드 변경 사항을 감지하고, 자동화 테스트를 포함한 빌드를 수행하여 소프트웨어 품질을 향상시킬 수 있다. 이ㅣㅣㅚ로써 개인이 미처 실시하지 못한 테스트까지도 수행할 수 있다.
+    1) 지속적인 통합 및 지속적인 전달
+         : Git과 같은 버전관리시스템과 연동하여 코드 변경 사항을 감지하고, 자동화 테스트를 포함한 빌드를 수행하여 
+           소프트웨어 품질을 향상시킬 수 있다. 이로써 개인이 미처실시하지 못한 테스트까지도 수행할 수 있다.
+
+    2) 다양한 활용 및 손쉬운 확장
+         : 1500개 이상의 플러그인을 통해서 Git, AWS 등의 도구와 쉽게 통합해 사용할 수 있으며 많은 참고 자료가 있어 
+           문제 해결이나 새로운 기능 구현에 대한 정보를 쉽게 얻을 수 있다.
+        
+    3) 편리한 설정
+         : 웹 기반의 콘솔로 다양한 인증 기반과 결합하여 권한 관리 기능을 제공해 안전한 빌드 및 배포 환경을 구축할 수 있다. 
+           또한 수많은 플러그인을 사용해 반복되는 작업을 최소화할 수 있다.
+
+#### * GitHub Actions VS Jenkins
+    1) 직관적인 UI
+         : 저희 프로젝트에서는 Vue 서버와 Spring 서버 각각을 CI, CD해야했기에 이를 한번에 관리할 수 있는 도구가 필요했다.
+           Jenkins의 경우 메인 화면에서 build가 어디서 이루어지고 있는지 확인할 수 있어 테스트를 진행할 때 번거로움이 
+           줄어들 것이라 생각했다.
+
+    2) 유연한 파이프라인을 통한 커스터마이징
+         : GitHub Actions에 비해 Jenkins는 다양한 플러그인과 파이프라인 스크립트를 통해 사용자의 커스터마이징이 자유롭고, 
+           복잡한 빌드 및 배포 과정을 유연하게 정의할 수 있다. 이는 아직 AWS를 제대로 공부하지 않은 상태이기에 발생할 수 
+           있는 변수를 제어하기 더 쉬울 것이라 생각했다
+
+[https://inpa.tistory.com/entry/Jenkins-%F0%9F%93%9A-%EC%A0%A0%ED%82%A8%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80] Jenkins – 자동화 테스트
+
+[https://velog.io/@tjseocld/CI-CD-%EC%99%80-Jenkins] Jenkins – 특징
+
+[https://www.jenkins.io/] Jenkins – 정의
+
+[https://velog.io/@kimseungki94/Jenkins-vs-Github-Action-%EC%96%B4%EB%96%A4%EA%B1%B8-%EC%93%B0%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C] Jenkins vs Github Action
+
+### 2. 배포 과정
+
+    1) Backend 배포 과정
+      : git pull request → webhook → Jenkins → AWS S3에 빌드 파일 업로드 → Codedeploy를 통한 배포 → ec2 안에 서버 개시
+
+    2) Frontend 배포 과정
+      : git pull request → webhook → Jenkins → AWS S3에 빌드 파일 업로드 → AWS S3의 정적 웹 사이트 호스팅
+       
+       
+    ( AWS S3와 AWS RDS는 당연히 써야하기에 패스! )
+
+### 3. AWS CloudFront
+
+    콘텐츠 전송 네트워크(CDN) 서비스로, 클라이언트의 콘텐츠 요청 시 서버에서 받아온 콘텐츠를 Edge Location에 캐싱하고,
+    이후 같은 요청이 왔을 때, 가장 가까운 Edge Location에서 캐싱된 데이터를 제공한다.
+
+#### * 장점
+    - 서버 성능 향상
+        : 컨텐츠를 제공하는 서버와 실제 요청 지점 간의 지리적 거리가 매우 먼 경우나 통신 환경이 좋지 않은 경우,
+          요청지점의 CDN을 통해 빠르게 컨텐츠를 제공할 수 있다. 이 과정 속에서 서버의 직접적인 요청이 필요 없기 때문에 
+          서버의 부하를 줄일 수 있다.
+
+    - 데이터 전송 속도 향상
+        : 캐싱을 통해 사용자가 서버의 요청 없이 바로 데이터를 얻을 수 있어 접근 속도가 빨라진다. 이는 특히 대용량 
+          파일 전송이나 스트리밍 서비스 등에서 큰 장점을 제공한다.
+    
+    - 보안
+        : 특정 지역의 컨텐츠 접근을 제한할 수 있으며, SSL/TLS 암호화를 통해 데이터 전송 중에 보안을 강화할 수 있다.
+          또한 원본 서버의 직접적인 IP주소 노출을 막아 해킹 시도 시 공격자가 서버를 직접 타겟팅하기 어렵게 만든다.
+    
+    - 확장성과 가용성
+        : 트래픽이 급증하더라도 자동으로 확장되어 안정적인 서비스 제공이 가능하다. 대규모 이벤트나 프로모션 기간에도 
+          안정적인 콘텐츠 제공이 가능하며, 예상치 못한 트래픽 증가에도 유연하게 대응할 수 있다.
+    
+    - 다양한 통합 기능
+        : AWS의 다른 서비스와 원활하게 통합되어 다양한 기능을 제공한다. s3, ec2와 같은 서비스와 연동하여 효율적인 콘텐츠 
+          제공을 구현할 수 있다.
+
+#### * 선택 이유
+    - 데이터 전송 속도 향상
+        : 우리 서버의 더미 데이터는 20만 개가 넘어간다. 이로 인해 통계를 도출할 때 10초가 넘는 지연시간이 발생한다.
+          이러한 경험이 반복될수록 사용자에게 불쾌감을 줄 수 있기에, 이를 AWS CloudFront를 통해 해결할 수 있었다.
+<img src="image-1.png" alt="" width="500" height="200"> `localhost`
+<img src="image-2.png" alt="" width="500" height="200"> `AWS CloudFront` 
+    
+    → AWS CloudFront 부분의 성능 부분이 눈에 띄게 좋아진 것을 확인할 수 있다.
+
+    - 보안
+        : 학원에서 제공된 계정이기에 사용할 수 있는 금액이 제한되어 있다. 그렇기에 금액 부분에서 더욱 신중할 수 밖에
+          없었다. 이에 직접적인 IP 노출을 막고 한국이 아닌 다른 나라의 접속을 차단하는 cloudfront는 효과적인 대안이라고
+          생각했다.
+
+[https://inpa.tistory.com/entry/AWS-%F0%9F%93%9A-CloudFront-%EA%B0%9C%EB%85%90-%EC%9B%90%EB%A6%AC-%EC%82%AC%EC%9A%A9-%EC%84%B8%ED%8C%85-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC] cloudfront 장점
+
+[https://bosungtea9416.tistory.com/entry/AWS-CloudFront] cloudfront 기능 소개
+
+[https://mmsesang.tistory.com/entry/%EC%9B%B9-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%B8%A1%EC%A0%95%ED%95%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4] 웹 성능 테스트
+
+### 4. AWS CodeDeoloy
+    코드, 웹 및 구성파일, 패키지, 스크립트 등의 애플리케이션 콘텐츠를 운영환경에 자동으로 배포하는 역할을 수행하는 
+    AWS 서비스이다.
+
+#### * 장점
+    - 배포 자동화 및 모니터링
+        : AWS CodeDeploy는 애플리케이션 배포 과정을 자동화하여 수동 작업의 필요성을 줄인다. 배포 과정 중 발생하는 문제를
+          실시간으로 모니터링하고, 오류가 발생하면 자동으로 롤백하여 안정성을 보장한다.
+
+    - 가동 중지 시간 최소화 
+        : CodeDeploy는 블루-그린 배포, 롤링 배포와 같은 다양한 배포 전략을 지원하여 애플리케이션 가동 중지 시간을
+          최소화한다. 이를 통해 사용자는 서비스 중단 없이 새로운 기능을 배포할 수 있다.
+
+    - 쉬운 접근 
+        : AWS Management Console, CLI 및 SDK를 통해 쉽게 접근하고 사용할 수 있다. 이를 통해 사용자는 손쉽게 배포 작업을
+          설정하고 관리할 수 있다.
+
+#### * Docker VS CodeDeploy
+    CodeDeploy는 AWS에서 제공하고 있는 서비스이므로 AWS의 다른 서비스(AWS S3, AWS ec2) 등에서 다른 프로그램을 연결하지
+    않더라도 AWS 내에서 효율적이고 편리한 배포가 가능하다. 
+    Docker를 사용할 경우 Docker 계정을 생성하고, 각 컨테이너를 생성하며, Dockerfile을 작성하는 등의 추가 작업이 필요하다. 
+    반면에 CodeDeploy는 Docker의 이런 복잡한 과정을 단순화하여 AWS 환경 내에서 쉽게 배포 작업을 진행할 수 있다.
+    게다가 Jenkins와 AWS s3를 이미 파이프라인 스크립트로 연결하고 있었기에 CodeDeploy를 사용하는 것이 더 접근성이 좋다. CodeDeploy가 AWS의 다른 서비스들과 자연스럽게 통합되기 때문이다. CodeDeploy의 경우 S3에 저장된 애플리케이션 
+    패키지를 자동으로 배포할 수 있어 별도의 설정 없이도 쉽게 배포 작업을 수행할 수 있다.
+
+    → 따라서 AWS 환경에서 애플리케이션을 배포할 경우 Docker보다는 CodeDeploy가 더 효율적인 선택이라 판단하였다.
+
+### 5. 배포
+
+` 1. 백엔드 - appspec.yml `
+
+<img src="image-3.png" alt="" width="500" height="430">
+
+</br>
+
+` 2. 백엔드 - Scripts/cleanup_sh `
+
+<img src="image-4.png" alt="" width="500" height="260">
+
+</br>
+
+` 3. 백엔드 - Scripts/stop.sh `
+
+<img src="image-5.png" alt="" width="500" height="500">
+
+</br>
+
+` 4. 백엔드 - Scripts/start.sh `
+
+<img src="image-6.png" alt="" width="500" height="450">
+<img src="image-7.png" alt="" width="500" height="300">
+
+</br>
+
+` 5. webhook 설정 `
+
+<img src="image-8.png" alt="" width="630" height="290">
+
+</br>
+
+` 6. Jenkins Credentials `
+
+<img src="image-9.png" alt="" width="630" height="130">
+
+</br>
+
+` 7. Jenkins Plugins `
+
+<img src="image-10.png" alt="" width="630" height="130"> <br> → AWS 의 액세스 키로 Credentials 를 생성하기 위한 플러그인
+
+<img src="image-11.png" alt="" width="630" height="200"> <br> → Github Pull Request 만 알림 받기 위한 플러그인
+
+</br>
+
+` 8. Jenkins Item 생성 `
+
+<img src="image-12.png" alt="" width="630" height="200"> <br> → 프론트 엔드와 백엔드 Item 생성
 
 <br/>
+
+` 9. 각 Item 별 파이프라인 `
+
+<details>
+<summary>Frontend Pipeline</summary>
+<div markdown="1">
+    
+```pipeline
+pipeline {
+    
+    agent any
+    tools {
+        nodejs "node16"
+        git "Default"
+    }
+    
+    stages{
+        
+        stage('Prepare'){
+            steps{
+                sh "node -v"
+                sh "npm -v"
+                // sh "npm install --save"
+                sh "npm install @vue/cli"
+                sh "pwd"
+            }
+        }
+
+        stage('Build'){
+            
+            steps{
+                // Build 영역 : Git 연동
+                git branch : 'main', // 후에 각각의 branch로 설정
+                    credentialsId : 'jenkins_github_connect',
+                    url : 'https://github.com/nbbb9/be05-fin-OutPick_Frontend.git'
+                // sh "npm run build"
+                sh "CI=false npm run build"
+                echo "build 완료"
+            }
+    
+        }
+        stage('deploy'){
+            steps{
+                withCredentials([[$class: 'AmazonWebServicesCredentialsBinding', credentialsId: 'AWS_configure']]) {
+                    sh 'aws s3 ls'
+                    sh 'aws configure list'
+                    sh "aws s3 sync ./dist s3://outpick"
+                    echo "deploy 완료"
+                }
+            }
+        }
+        
+        stage('Invalidate CloudFront Cache') {
+            steps {
+                // CloudFront 캐시 무효화 수행
+                sh 'aws cloudfront create-invalidation --distribution-id EUP62OSJUG4ID --paths "/*"'
+            }
+        }
+    }
+}
+```
+</div>
+</details>
+
+</br>
+
+<details>
+<summary>Backend Pipeline</summary>
+<div markdown="1">
+    
+```pipeline
+pipeline {
+    
+    agent any
+    
+    stages{
+        stage('Build And Archive'){
+            
+            steps{
+                // Build 영역 : Git 연동
+                git branch : 'main', // 후에 각각의 branch로 설정
+                    credentialsId : 'jenkins_github_connect',
+                    url : 'https://github.com/nbbb9/be05-fin-OutPick_Backend.git'
+                echo 'git hook!'
+                
+                // Build 영역 : pjt build
+                sh 'chmod +x ./gradlew'
+                sh './gradlew build'
+                
+                // Build 영역 : 압축축
+                sh 'cp appspec.yml build/'  // appspec.yml을 압축 파일에 추가
+                sh 'cp -r scripts build/'   // scripts폴더를 압축 파일에 추가
+                sh 'zip -r build/archive.zip build/libs/* build/appspec.yml build/scripts/'
+                echo 'build and archive completed!'
+            }
+    
+        }
+        
+        stage('Upload to S3') {
+            steps {
+                // s3에 업로드드
+                withCredentials([[$class: 'AmazonWebServicesCredentialsBinding', credentialsId: 'AWS_configure']]) {
+                    sh 'aws s3 cp build/archive.zip s3://outpick/archive.zip --region ap-northeast-2'
+                }
+            }
+        }
+        
+        stage('Deploy to EC2') {
+            steps {
+                // deploy에 요청을 보내 ec2에 배포포
+                withCredentials([[$class: 'AmazonWebServicesCredentialsBinding', credentialsId: 'AWS_Iam_Jenkins']]) {
+                    script {
+                        def bucket = 'outpick'
+                        def key = "archive.zip"
+                        def applicationName = 'outpick-codedeploy'
+                        def deploymentGroupName = 'outpick-codedeploy-group'
+                        def region = 'ap-northeast-2'
+        
+                        // AWS CLI를 사용하여 CodeDeploy 배포 생성
+                        sh """
+                        aws deploy create-deployment \\
+                            --application-name ${applicationName} \\
+                            --deployment-group-name ${deploymentGroupName} \\
+                            --s3-location bucket=${bucket},bundleType=zip,key=${key} \\
+                            --region ${region}
+                        """
+                    }
+                }
+            }
+        }
+
+    }
+}
+```
+</div>
+</details>
+
+</br>
+
+` 10. Frontend `
+
+    - Github Pull Request
+    - Jenkins 자동 build + 배포 진행 + 캐시 초기화
+
+<img src="image-13.png" alt="" width="630" height="230">
+<img src="image-14.png" alt="" width="430" height="200">
+<img src="image-15.png" alt="" width="630" height="300">
+
+    - S3 업로드 내역
+<img src="image-16.png" alt="" width="630" height="300">
+
+</br>
+
+` 11. Backend `
+
+    - Github Pull Request
+<img src="image-17.png" alt="" width="630" height="350">
+
+    - Jenkins 자동 build + 배포 진행
+
+<img src="image-18.png" alt="" width="430" height="200">
+
+<img src="image-19.png" alt="" width="630" height="160">
+
+    - s3 업로드 내역
+<img src="image-20.png" alt="" width="630" height="300">
+
+    - CodeDeploy 배포
+<img src="image-21.png" alt="" width="630" height="300">
+<img src="image-22.png" alt="" width="630" height="230">
+
+</br>
+
 
 >## 11. 단위 테스트
 
