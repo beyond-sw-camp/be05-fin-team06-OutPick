@@ -1054,20 +1054,10 @@ pipeline {
 
 </details>
 
-<br/>
-
-># 12. 통합 테스트
-[**문서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=343013399&single=true)
-</br>
-
-<p align="center">
-<img src="assets/image-23.png"  width="80%" height="80%"/>
-</p>
-
 </br>
 </br>
 
-># 13. UI/UX 단위 테스트
+># 12. UI/UX 단위 테스트
 <details>
 <summary>본사 프로그램 _ 관리자</summary>
 
@@ -1219,3 +1209,13 @@ pipeline {
 
 </details>
 
+</br>
+</br>
+
+># 13. 통합 테스트
+[**문서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=343013399&single=true)
+</br>
+
+<p align="center">
+<img src="assets/image-23.png"  width="80%" height="80%"/>
+</p>
