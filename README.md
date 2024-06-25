@@ -728,39 +728,39 @@
 
 ### 1. 로그인
 
-<사진>
+![1 관리자 로그인](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/43cfa6f9-f14c-4eb8-985f-e1a639786b74)
 
 ### 2. 재고요청서 전체 조회 & 상세 조회
 
-<사진>
+![2 전체 재고요청서 조회 상세](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/97c6cb41-058e-457e-bd53-e06372416bff)
 
 ### 3. 건의사항 전체 조회 & 상세 조회
 
-<사진>
+![3 전체 건의사항 조회 상세](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/623c9ab8-a393-4c7c-b365-9e50c219eef2)
 
 ### 4. 매장 재고 전체 조회 & 상세 조회
 
-<사진>
+![4 전체 매장 재고 조회 상세](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/19db2dcb-361c-495f-b9b6-27559652c647)
 
 ### 5. 생산요청서 전체 조회 & 상세 조회
 
-<사진>
+![5 전체 생산요청서 조회 상세](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/29cef7f8-b675-46fd-bf37-e4d1d20c7bee)
 
 ### 6. 사원 정보 리스트 조회 & 검색 & 상세 조회
 
-<사진>
+![6 전체 사원 리스트 검색 상세](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/4998b1a8-c69e-4d05-aeb8-35c7afa0ebea)
 
 ### 7. 사원 정보 수정
 
-<사진>
+![7 전체 사원 정보 수정](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/8bcdc8e3-6579-4184-98a8-b43eb73e97d5)
 
 ### 8. 사원 담당 매장 판매량 조회
 
-<사진>
+![8 전체 사원 판매량 조회](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/bf062c65-6780-440f-b34c-c20ea4fe408e)
 
 ### 9. 재고요청서 조회 & 검색 & 분류 & 상세 조회
 
-<사진>
+![9 전체 재고요청서  조회 검색 분류 상세](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e4e6b8a8-9fca-4f18-8a60-e89362ccdd67)
 
 ### 10. 아직!!!!!
 
@@ -768,7 +768,7 @@
 
 ### 11. 생산요청서 전체 조회 & 상세 조회 & 승인
 
-<사진>
+![11 전체 생산요청서 조회 상세 승인](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f91c7b2c-5fa1-4a51-a491-ec03d4a8216a)
 
 </details>
 </br>
@@ -778,63 +778,63 @@
 
 ### 1. 로그인
 
-<사진>
+![1,사원 로그인](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/7a619ce6-3ad8-4360-a13c-e67ceb0f2373)
 
 ### 2. 재고요청서 리스트 조회 & 분류 & 상세 조회
 
-<사진>
+![2 재고요청서 리스트 분류 상세보기](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/488bbb4f-f789-4450-ac83-470a656f94bf)
 
 ### 3. 재고요청서 승인
 
-<사진>
+![3 재고요청서 승인 성공](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/635398ac-03b0-4885-8a06-b9440bcb9f03)
 
 ### 4. 재고요청서 반려
 
-<사진>
+![4 재고요청서 반려 성공](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/ae93d116-4d22-478c-8b67-e28e6850ab3b)
 
 ### 5. 건의사항 리스트 조회 & 상세 조회 & 분류 & 검색
 
-<사진>
+![5 건의사항 리스트 분류 검색 상세](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/2f516dc1-9252-415f-bca3-2d6d6ad94210)
 
 ### 6. 건의사항 해결문작성 & 해결완료
 
-<사진>
+![6 건의사항 해결문작성 해결완료](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/8f3b688a-8ea9-445b-a17b-63777ce93683)
 
 ### 7. 매장 재고 전체 조회 & 상세 조회 & 검색 & 정렬 & 화면 이동
 
-<사진>
+![7 매장재고 조회 검색 정렬 상세 재고요청서 이동](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/99b0227c-87d1-463b-937f-aebb38d4c1f2)
 
 ### 8. 할인율 적용
 
-<사진>
+![8 매장별재고 -할인율 적용](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/48ae8bc7-d7b6-4c8d-9e71-e7e469b2aa7f)
 
 ### 9. 회사 재고 전체 조회 & 상세 조회 & 검색 & 정렬
 
-<사진>
+![9 회사재고 조회 검색 정렬 상세](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/099783fe-cc46-441a-a089-2936eff6b549)
 
 ### 10. 생산요청서 조회 & 수정
 
-<사진>
+![10 생산요청서 조회 수정](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/7a5840b3-b078-4060-9f5b-913c2d45a532)
 
 ### 11. 상품 전체 조회 & 상세 조회 & 검색 & 정렬 & 생산요청서 작성
 
-<사진>
+![11 상품리스트 조회 검색 정렬 상세 생산요청서 작성](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/997eee1d-8530-4120-a2c6-582e2c898b9a)
 
 ### 12. 물류센터 전체 조회
 
-<사진>
+![12 물류센터 리스트](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/a5dcb179-7893-4766-a0e5-354c68abdac6)
 
 ### 13. 통계 / 분석
 
-<사진>
+![13 통계분석](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/65efba63-40d3-403d-961f-a416ffc958cc)
 
 ### 14. 알림
 
-<사진>
+![14 알림](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/665829e4-e06f-49f6-a0d3-6a16a89114ba)
 
 ### 15. InfoWindow & 로그아웃
 
-<사진>
+![15 인포윈도우 로그아웃](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/364f5fe5-377e-49f9-b7ec-f1772f9d79e5)
 
 </details>
 
@@ -844,35 +844,35 @@
 
 ### 1. 로그인
 
-<사진>
+![매장-로그인](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/f8c97902-c2c2-4a0a-ad61-8a4718653593)
 
 ### 2. 재고확인
 
-<사진>
+![매장-재고확인](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/82ea4429-bc84-470d-a249-635810dec312)
 
 ### 3. 재고요청서 작성
 
-<사진>
+![매장-재고요청서](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b6c1231d-6d4c-4edf-abe7-e0f92f6dcb10)
 
 ### 4. 재고요청서 관리
 
-<사진>
+![매장-재고요청서-관리](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/6cb25f06-7dd9-40ab-b7f7-2640bb6c4588)
 
 ### 5. 판매 관리
 
-<사진>
+![매장-판매](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/fbc1c601-184d-41d5-b2da-f423e84888fa)
 
 ### 6. 건의사항 작성
 
-<사진>
+![매장-건의사항-작성](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/8549ade6-09e0-4f55-b4ca-26b5a6d90086)
 
 ### 7. 건의사항 관리
 
-<사진>
+![매장-건의사항](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/e25c348f-5ce6-46c6-90d4-8b017d98305a)
 
 ### 8. 알림
 
-<사진>
+![매장-알림](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/7ba8315d-5a19-4d5c-aedd-63158f83568c)
 
 </details>
 
