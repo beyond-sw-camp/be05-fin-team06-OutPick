@@ -307,7 +307,9 @@
 
 ` 6. Jenkins Credentials `
 
-<img src="assets/image-9.png" alt="" width="630" height="130">
+<!-- <img src="assets/image-9.png" alt="" width="630" height="130"> -->
+
+![JWT Credentials](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/83454423/2b829342-c084-45a0-96bf-94f74b598d28)
 
 </br>
 
