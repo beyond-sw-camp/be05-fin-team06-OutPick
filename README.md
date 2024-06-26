@@ -466,9 +466,9 @@ pipeline {
 ` 10. Frontend `
 
     - Github Pull Request
-    - Jenkins 자동 build + 배포 진행 + 캐시 초기화
+    - Jenkins 자동 build + S3 배포 진행 + S3 캐시 초기화
 
-<img src="assets/image-13.png" alt="" width="630" height="230">
+
 <img src="assets/image-14.png" alt="" width="430" height="200">
 <img src="assets/image-15.png" alt="" width="630" height="300">
 
@@ -480,9 +480,7 @@ pipeline {
 ` 11. Backend `
 
     - Github Pull Request
-<img src="assets/image-17.png" alt="" width="630" height="350">
-
-    - Jenkins 자동 build + 배포 진행
+    - Jenkins 자동 build + S3 업로드 진행 + CodeDeploy를 통한 ec2 배포 진행 
 
 <img src="assets/image-18.png" alt="" width="430" height="200">
 
