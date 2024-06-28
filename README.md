@@ -110,6 +110,7 @@
 
 ># 6. 요구사항 명세서
 [**본사 프로그램 요구사항 명세서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true)
+</br>
 [**매장 프로그램 요구사항 명세서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=754691662&single=true)
 </br>
 <p align="center">
@@ -131,6 +132,7 @@
 
 ># 8. API 명세서
 [**본사 프로그램 API 명세서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
+</br>
 [**매장 프로그램 API명세서로 이동**](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/bf3a2de7-6ce0-4748-a50a-8fd3674ac931)
 </br>
 <p align="center">
