@@ -93,7 +93,7 @@
 **Jira를 사용한 WBS**
 </br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/9e16a0fc-5d8e-4f36-b18c-a5698d552449" width="100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/bf3a2de7-6ce0-4748-a50a-8fd3674ac931" width="100%" height="100%"/>
 </p>
 
 <br/>
