@@ -109,10 +109,11 @@
 </br>
 
 ># 6. 요구사항 명세서
-[**문서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true)
+[**본사 프로그램 요구사항 명세서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true)
+[**매장 프로그램 요구사항 명세서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=754691662&single=true)
 </br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b578abdc-8671-4b80-937f-f742d714ce11" width="100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b216de01-c1ea-4a95-a2de-41ccca8578d5" width="100%" height="100%"/>
 </p>
 
 <br/>
@@ -122,17 +123,18 @@
 **ERD Cloud를 통한 ERD 제작**
 </br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/096bc59e-c53a-4e44-abe4-2c874e9e52f7" width="=100%" height="100%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/c61d8e29-0ca2-4368-8a1e-d742490dfaa5" width="=100%" height="100%"/>
 </p>
 
 <br/>
 <br/>
 
 ># 8. API 명세서
-[**문서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
+[**본사 프로그램 API 명세서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
+[**매장 프로그램 API명세서로 이동**](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/bf3a2de7-6ce0-4748-a50a-8fd3674ac931)
 </br>
 <p align="center">
-<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/baaf2a30-68a2-4cb9-a83d-8ffd3065a359" width="=80%" height="80%"/>
+<img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/21d60190-b5e1-4539-91e0-2630cb123c50" width="=80%" height="80%"/>
 </p>
 
 <br/>
