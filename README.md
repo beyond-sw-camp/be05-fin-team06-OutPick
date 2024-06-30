@@ -38,10 +38,10 @@
 <br/>
    
 ># 1. 프로젝트 개요
-[**문서로 이동**](https://docs.google.com/document/d/e/2PACX-1vRXz16qsa14AtSS3hxbLGdLOLyV3ECUonP_XV0TXHLME7rUtETutvjESXsBJSGwxA/pub)
+[**프로젝트 개요 문서 바로가기**](https://docs.google.com/document/d/e/2PACX-1vRXz16qsa14AtSS3hxbLGdLOLyV3ECUonP_XV0TXHLME7rUtETutvjESXsBJSGwxA/pub)
 
 <details>
-<summary>프로젝트 개요</summary>
+<summary>프로젝트 개요 요약</summary>
 <div markdown="1">
 <div>
 </br>
@@ -109,9 +109,9 @@
 </br>
 
 ># 6. 요구사항 명세서
-[**본사 프로그램 요구사항 명세서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true)
+[**본사 프로그램 요구사항 명세서 바로가기**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=1317833348&single=true)
 </br>
-[**매장 프로그램 요구사항 명세서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=754691662&single=true)
+[**매장 프로그램 요구사항 명세서 바로가기**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=754691662&single=true)
 </br>
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/b216de01-c1ea-4a95-a2de-41ccca8578d5" width="100%" height="100%"/>
@@ -131,9 +131,9 @@
 <br/>
 
 ># 8. API 명세서
-[**본사 프로그램 API 명세서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
+[**본사 프로그램 API 명세서 바로가기**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=153264304&single=true)
 </br>
-[**매장 프로그램 API명세서로 이동**](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/bf3a2de7-6ce0-4748-a50a-8fd3674ac931)
+[**매장 프로그램 API 명세서 바로가기**](https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/bf3a2de7-6ce0-4748-a50a-8fd3674ac931)
 </br>
 <p align="center">
 <img src="https://github.com/beyond-sw-camp/be05-fin-team06-OutPick/assets/113917104/21d60190-b5e1-4539-91e0-2630cb123c50" width="=80%" height="80%"/>
@@ -154,7 +154,7 @@
 
 ># 10. CI/CD 계획서
 <details>
-<summary>내용 자세히</summary>
+<summary>내용 자세히 보기</summary>
 
 ### 1. Devops tool : Jenkins
      지속적 통합 및 지속적 배포(CI/CD) 파이프라인을 자동화하기 위한 오픈소스 자동화 서버이다.
@@ -933,7 +933,7 @@ pipeline {
 </details>
 
 <details>
-<summary>매장프로그램</summary>
+<summary>매장 프로그램</summary>
 
 #### 로그인
 > 매장명, 매니저 이메일, 매니저 이름을 입력하여 로그인 할 수있다.
@@ -1217,7 +1217,7 @@ pipeline {
 </br>
 
 ># 13. 통합 테스트
-[**문서로 이동**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=343013399&single=true)
+[**통합 테스트 문서 바로가기**](https://docs.google.com/spreadsheets/d/e/2PACX-1vS9bODOt-rtBDKpbaG0ATOLsyy8J1jfMzSeBrBA_it37OxoHOSj3OC0gWU_MUZBrk95X8eXk6qHYQHk/pubhtml?gid=343013399&single=true)
 </br>
 
 <p align="center">
