@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.encore.outpick_backend.Login.mapper.LoginMapper">
+
+    <select id="login"
+        parameterType="com.encore.outpick_backend.Login.domain.LoginDTO"
+        resultType="com.encore.outpick_backend.Login.domain.LoginDTO">
+
+        SELECT 
+            employee_number, password, name, id, authorization
+        FROM 
+            (
+                SELECT 
+                    employee_number, password, name, employee_id AS id, authorization 
+                FROM 
+                    employee 
+                UNION ALL
+                SELECT 
+                    employee_number, password, name, admin_id AS id, authorization 
+                FROM 
+                    admin
+            ) AS combined_data
+        WHERE 
+            employee_number = #{employee_number};    
+
+    </select>
+
+</mapper>

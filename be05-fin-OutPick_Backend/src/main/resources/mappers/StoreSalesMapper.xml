@@ -1,0 +1,36 @@
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.encore.outpick_backend.Store.mapper.StoreSalesMapper">
+
+    <!--매장 판매 리스트-->
+    <select id="read_sales_list"
+            parameterType="int"
+            resultType="com.encore.outpick_backend.Store.domain.StoreSalesDTO">
+
+        SELECT
+            ss.shop_sales_id AS shop_sales_id,
+            ss.quantity AS quantity,
+            ss.date AS date,
+            p.name AS product_name,
+            p.color AS color,
+            p.size AS size
+        FROM
+            shop_sales ss
+        JOIN
+            product p ON ss.product_id=p.product_id
+        WHERE
+            shop_id = #{shopid}
+
+    </select>
+
+    <!--판매 내역 추가-->
+    <insert id="create_sales"
+            parameterType="com.encore.outpick_backend.Store.domain.StoreAddSalesDTO">
+
+        INSERT INTO shop_sales(shop_id, product_id, quantity, date)
+        VALUES
+            (#{shop_id}, #{product_id}, #{quantity}, SYSDATE())
+
+    </insert>
+
+</mapper>

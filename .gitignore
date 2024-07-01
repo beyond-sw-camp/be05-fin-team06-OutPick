@@ -1,0 +1,67 @@
+## backend
+HELP.md
+be05-fin-OutPick_Backend/.gradle
+be05-fin-OutPick_Backend/build/
+!be05-fin-OutPick_Backend/gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### STS ###
+be05-fin-OutPick_Backend/.apt_generated
+be05-fin-OutPick_Backend/.classpath
+be05-fin-OutPick_Backend/.factorypath
+be05-fin-OutPick_Backend/.project
+be05-fin-OutPick_Backend/.settings
+be05-fin-OutPick_Backend/.springBeans
+be05-fin-OutPick_Backend/.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+be05-fin-OutPick_Backend/.idea
+be05-fin-OutPick_Backend/*.iws
+be05-fin-OutPick_Backend/*.iml
+be05-fin-OutPick_Backend/*.ipr
+be05-fin-OutPick_Backend/out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+be05-fin-OutPick_Backend//nbproject/private/
+be05-fin-OutPick_Backend//nbbuild/
+be05-fin-OutPick_Backend//dist/
+be05-fin-OutPick_Backend//nbdist/
+be05-fin-OutPick_Backend//.nb-gradle/
+
+### VS Code ###
+be05-fin-OutPick_Backend/.vscode/
+
+## frontend
+fin_outpick_frontend/.DS_Store
+fin_outpick_frontend/node_modules
+fin_outpick_frontend/dist
+
+# local env files
+fin_outpick_frontend/.env.local
+fin_outpick_frontend/.env.*.local
+
+# Log files
+fin_outpick_frontend/npm-debug.log*
+fin_outpick_frontend/yarn-debug.log*
+fin_outpick_frontend/yarn-error.log*
+fin_outpick_frontend/pnpm-debug.log*
+
+# Editor directories and files
+fin_outpick_frontend/.idea
+fin_outpick_frontend/.vscode
+fin_outpick_frontend/*.suo
+fin_outpick_frontend/*.ntvs*
+fin_outpick_frontend/*.njsproj
+fin_outpick_frontend/*.sln
+fin_outpick_frontend/*.sw?
+
+## pjt
+.idea
+.vscode
+/assets

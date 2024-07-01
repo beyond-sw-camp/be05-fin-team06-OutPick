@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.encore.outpick_backend.Analyze.mapper.AnalyzeShopSalesMapper">
+
+    <!--매장별 월 판매량-->
+    <select id="read_list"
+            parameterType="int"
+            resultType="com.encore.outpick_backend.Analyze.domain.AnalyzeShopSalesDTO">
+        SELECT ss.shop_id AS shop_id , s.name AS shop_name , MONTH(DATE) AS month , SUM(quantity) AS quantity, 
+            ROUND((SUM(ss.quantity)*(p.consumer_price-p.first_cost)*((100 - ifnull(st.discount,0)) * 1/100 )),0) AS whole_money  
+        FROM shop_sales ss
+            JOIN product p ON ss.product_id = p.product_id
+            LEFT JOIN shop_stock st ON ss.product_id = st.product_id AND ss.shop_id = st.shop_id
+            JOIN shop s ON s.shop_id = ss.shop_id 
+        WHERE DATE LIKE CONCAT(#{year}, '-', LPAD(#{month}, 2, '0'), '-%')
+        GROUP BY ss.shop_id, MONTH(DATE)
+        ORDER BY ss.shop_id, MONTH(DATE)
+
+    </select>
+
+    <!-- 매장별 상품별 년 판매량 -->
+    <select id="read_sr_list"
+        parameterType="com.encore.outpick_backend.Analyze.domain.AnalyzeSRRequestDTO"
+        resultType="com.encore.outpick_backend.Analyze.domain.AnalyzeSRResponseDTO">
+
+        SELECT YEAR(DATE) AS year ,p.name AS name, SUM(quantity) AS quantity
+        FROM shop_sales ss
+        JOIN product p ON ss.product_id = p.product_id
+        WHERE ss.shop_id = #{shop_id} AND ss.product_id = #{product_id}
+        GROUP BY YEAR(DATE)
+
+    </select>
+
+</mapper>
