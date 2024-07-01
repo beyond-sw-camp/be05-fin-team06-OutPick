@@ -64,4 +64,4 @@ fin_outpick_frontend/*.sw?
 ## pjt
 .idea
 .vscode
-/assets
+# /assets
